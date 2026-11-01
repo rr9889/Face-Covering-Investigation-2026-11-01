@@ -1,0 +1,605 @@
+[
+ {
+  "id": "Q01",
+  "topic": "BDAG on `κατακαλύπτω`",
+  "quote": "\"cover, veil\"",
+  "attribution": "Bauer, Danker, Arndt & Gingrich, *A Greek-English Lexicon of the New Testament and Other Early Christian Literature*, 3rd ed. (Chicago, 2000), s.v. `κατακαλύπτω`, p. 458.",
+  "corpus_file": "`Bauer, W., Danker, F. W., ... (2000). A Greek-English lexicon ... .pdf`",
+  "evidence_type": "`[E]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q02",
+  "topic": "BDAG's classical parallel: a head-covering that covers the whole face",
+  "quote": "\"the covering of the clothes on the head is of such a kind that the whole face seems to be covered as with a mask\"",
+  "attribution": "BDAG, s.v. `κατακαλύπτω`, p. 458, quoting Ps.-Dicaearchus p. 144 on the women of Thebes.",
+  "corpus_file": "same as Q01.",
+  "evidence_type": "`[E]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q03",
+  "topic": "BDAG on the Shepherd of Hermas",
+  "quote": "\"covered or veiled to the forehead\" (`κατακεκαλυμμένη ἕως τοῦ μετώπου`)",
+  "attribution": "BDAG, s.v. `κατακαλύπτω`, p. 458, citing *Herm. Vis.* 4.2.1.",
+  "corpus_file": "same as Q01 (`Bauer... (2000) ... pdf`).",
+  "evidence_type": "`[E]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q04",
+  "topic": "BDAG on `περίβολαιον`",
+  "quote": "\"'that which is thrown around': an article of apparel that covers much of the body, covering, wrap, cloak, robe\"",
+  "attribution": "BDAG, s.v. `περίβολαιον`, p. 710.",
+  "corpus_file": "same as Q01.",
+  "evidence_type": "`[E]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q05",
+  "topic": "BDAG on `κάλυμμα`",
+  "quote": "\"head-covering, veil\"; used of Moses' face-veil (Exod 34:33–35) at 2 Cor 3:13; \"κ. is v.l. for ἐξουσία 1 Cor 11:10.\"",
+  "attribution": "BDAG, s.v. `κάλυμμα`, p. 447.",
+  "corpus_file": "same as Q01.",
+  "evidence_type": "`[E]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q06",
+  "topic": "BDAG on `ἐξουσία` at 11:10",
+  "quote": "\"Many now understand it as a means of exercising power … that is to say, the veil (`κάλυμμα` is v.l. for `ἐ.` here …)\"",
+  "attribution": "BDAG, s.v. `ἐξουσία`, §7, p. 311.",
+  "corpus_file": "same as Q01.",
+  "evidence_type": "`[E]`/`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q07",
+  "topic": "Massey: the words mean a material covering",
+  "quote": "\"Close attention to the original meaning of the words … permits a translation only of a material head covering. These words do not describe the process of letting hair hang down loosely.\"",
+  "attribution": "Preston T. Massey, \"Veiling among Men in Roman Corinth: 1 Corinthians 11:4 and the Potential Problem of East Meeting West,\" *JBL* 137 (2018): 501.",
+  "corpus_file": "`Massey, P. T. (2018). Veiling among men in Roman Corinth ... .pdf`; also quoted in `Anti Veiling Sources.txt`.",
+  "evidence_type": "`[I]`",
+  "verified": "◐ (quote reproduced in two corpus files)"
+ },
+ {
+  "id": "Q08",
+  "topic": "Fee: an external cloth",
+  "quote": "\"an external cloth covering\"",
+  "attribution": "Gordon D. Fee, *The First Epistle to the Corinthians* (Grand Rapids, 1987), 506; paralleled with Plutarch, *Mor.* 200F.",
+  "corpus_file": "`Fee, G. - First Epistle to the Corinthians (1987) pp. 506-507, ... .txt`",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q09",
+  "topic": "Godet: `περίβολαιον` is a body-wrap",
+  "quote": "\"does not merely denote, as `κάλυμμα` would do, an ornament for the head; it is a vestment enveloping the whole body, a sort of peplum.\"",
+  "attribution": "Frédéric Godet, *Commentary on St. Paul's First Epistle to the Corinthians* (1889), 129.",
+  "corpus_file": "`18 and 19th Century\\Godet, F. - Commentary ... (1889).txt`",
+  "evidence_type": "`[I]`",
+  "verified": "◐"
+ },
+ {
+  "id": "Q10",
+  "topic": "The Shepherd of Hermas, Vision 4.2.1",
+  "quote": "\"…behold, there meeteth me a virgin arrayed as if she were going forth from a bridal-chamber all in white and with white sandals, veiled up to her forehead, and her head-covering consisted of a turban…\"",
+  "attribution": "*Shepherd of Hermas*, Vision 4.2.1 (2nd c.), trans. as quoted in the article under review.",
+  "corpus_file": "",
+  "evidence_type": "`[E]`",
+  "verified": "◐ (Greek lemma confirmed in BDAG, Q03)"
+ },
+ {
+  "id": "Q11",
+  "topic": "No Greek manuscript reads \"veil\"",
+  "quote": "\"No early Greek manuscript replaces ἐξουσία with κάλυμμα in 1 Cor 11:10\"",
+  "attribution": "Aldar Nõmmik, *Robes, Romans, and Rituals in First Corinthians* (Stockholm, 2025), 300.",
+  "corpus_file": "`Robes Romans and Rituals in First Corinthians – Aldar Nõmmik – 2025.pdf` → `hc_extract/Robes_...txt`",
+  "evidence_type": "`[E]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q12",
+  "topic": "The reading circulated outside the Greek manuscripts",
+  "quote": "it \"does not appear to be a scribal 'corruption' … but seems to have circulated at first independently and outside of the Greek NT manuscripts\"",
+  "attribution": "Nõmmik 2025: 300–301.",
+  "corpus_file": "",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q13",
+  "topic": "What `κάλυμμα` means",
+  "quote": "\"a piece of clothing intended for the covering of the head (and of the face) that was especially associated with women's dress\"",
+  "attribution": "Nõmmik 2025: 301.",
+  "corpus_file": "",
+  "evidence_type": "`[E]` (lexical)",
+  "verified": "✅"
+ },
+ {
+  "id": "Q14",
+  "topic": "The consequence for interpretation",
+  "quote": "\"beginning with the end of the second century CE, many interpreters of this passage focused their attention solely on the necessity for women to cover their heads and faces\"",
+  "attribution": "Nõmmik 2025: 301.",
+  "corpus_file": "",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q15",
+  "topic": "Fee on the lateness of the variant",
+  "quote": "\"scholars assume that `κάλυμμα` ('veil') would be the proper term (this is found only as early as Epiphanius)\"",
+  "attribution": "Fee 1987: 518 n.27.",
+  "corpus_file": "`Fee, G. - First Epistle ... (1987).txt`",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q16",
+  "topic": "Hays against reading \"veil\" into the text",
+  "quote": "\"'authority' (*exousia*) does not mean 'veil' (as in the RSV)\"",
+  "attribution": "Richard B. Hays, *First Corinthians* (Louisville, 2011), 187.",
+  "corpus_file": "`Hays, R - First Corinthians pp. 181, 183-184, 187-191 (2011).txt`",
+  "evidence_type": "`[I]`",
+  "verified": "◐"
+ },
+ {
+  "id": "Q17",
+  "topic": "Horace: the matron's face is what shows",
+  "quote": "\"In a matron one can see only her face, for unless she be a Catia, her long robe conceals all else.\"",
+  "attribution": "Horace, *Satires* 1.2.94–100, quoted in Eleanor Smith, *Female Head Covering in the Early Imperial Period* (MA thesis, Macquarie, 2014), 54.",
+  "corpus_file": "`Smith, E - Female Head Covering in Early Imperial Period (2014).pdf`",
+  "evidence_type": "`[E]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q18",
+  "topic": "Smith: the terminology problem",
+  "quote": "\"can often refer to anything from covering of the head, to the face, or both without differentiation\"",
+  "attribution": "Smith 2014: 19.",
+  "corpus_file": "",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q19",
+  "topic": "Nõmmik: `capite velato` leaves the face visible",
+  "quote": "\"In ancient depictions of this ritual gesture, the facial features are clearly visible, and the garment seems to be neatly arranged so that part of the head and hair remain visible as well.\"",
+  "attribution": "Nõmmik 2025, ch. 2.",
+  "corpus_file": "",
+  "evidence_type": "`[E]` (iconography)",
+  "verified": "✅"
+ },
+ {
+  "id": "Q20",
+  "topic": "Nõmmik: faces still observable in antiquity generally",
+  "quote": "\"even if head-coverings were worn in antiquity by women, facial features were still observable in most cases, if not also part or most of the hairdo\"",
+  "attribution": "Nõmmik 2025: 273.",
+  "corpus_file": "",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q21",
+  "topic": "Gill: Corinthian women mostly bare-headed",
+  "quote": "portraits of elite Corinthian women \"are most frequently shown bare-headed\"",
+  "attribution": "David W. J. Gill, \"The Importance of Roman Portraiture for Head-Coverings in 1 Corinthians 11:2–16,\" *TynBul* 41 (1990): 251.",
+  "corpus_file": "`Gill, D - Importance of Roman Portraiture ... (1990).pdf`",
+  "evidence_type": "`[E]`",
+  "verified": "◐"
+ },
+ {
+  "id": "Q22",
+  "topic": "Gill: the veiled woman as priestess",
+  "quote": "Eumachia \"shows a woman wearing the stola over her head\"",
+  "attribution": "Gill 1990: 252.",
+  "corpus_file": "",
+  "evidence_type": "`[E]`",
+  "verified": "◐"
+ },
+ {
+  "id": "Q23",
+  "topic": "Stafford: the covering styles",
+  "quote": "\"Tight-fitting covers either concealed a woman's hair completely or left a portion visible around the face\"",
+  "attribution": "Grace Stafford, \"Veiling and Head-Covering in Late Antiquity,\" *Past & Present* 263 (2024): 14.",
+  "corpus_file": "`Stafford, G - Veiling and Head-Covering in Late Antiquity (2024).pdf`",
+  "evidence_type": "`[E]` (visual corpus)",
+  "verified": "✅"
+ },
+ {
+  "id": "Q24",
+  "topic": "Stafford: no east/west divide",
+  "quote": "\"In terms of regional distinctions, there is no discernible difference in veiling practices between the east and the west.\"",
+  "attribution": "Stafford 2024: 18.",
+  "corpus_file": "",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q25",
+  "topic": "Oxford Bible Commentary: the himation could cover the face",
+  "quote": "\"could be drawn forward from behind the neck to cover the crown of the head, or even further forward over the face as well\"",
+  "attribution": "John Barton & John Muddiman (eds), *The Oxford Bible Commentary* (Oxford, 2001), 1125–1126.",
+  "corpus_file": "`Barton, John; Muddiman, John (2001) ... pp. 1125–1126..txt`",
+  "evidence_type": "`[E]`/`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q26",
+  "topic": "Oxford: women covered heads \"and even their faces\"",
+  "quote": "\"married women frequently covered their heads and even their faces, as a sign of modesty\"",
+  "attribution": "Oxford Bible Commentary, 1126.",
+  "corpus_file": "",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q27",
+  "topic": "Keener: face veils in the east",
+  "quote": "\"Far to the east and in Arabia, modest wives might wear even face veils … in Jerusalem, Tarsus, and for some of the women of Corinth … it sufficed to cover the hair.\"",
+  "attribution": "Craig Keener, *1–2 Corinthians* (Cambridge, 2005), 92.",
+  "corpus_file": "`Keener, C - 1-2 Corinthians Chapter Sexuality Modesty in Church pp. 90-94 (2005).txt`",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q28",
+  "topic": "MacMullen: head, not face",
+  "quote": "\"Veiling meant the head, only in Arabia the face as well.\"",
+  "attribution": "Ramsay MacMullen, \"Woman in Public in the Roman Empire,\" *Historia* 29 (1980), 208 n.4; quoted in Smith 2014: 19 n.52.",
+  "corpus_file": "",
+  "evidence_type": "`[I]`",
+  "verified": "◐"
+ },
+ {
+  "id": "Q29",
+  "topic": "Marlowe: the usual Greek covering",
+  "quote": "\"the headcovering is usually just the himation pulled over the top and back of the head\"",
+  "attribution": "Michael Marlowe, *Headcovering Customs of the Ancient World* (2005), 3.",
+  "corpus_file": "`Marlowe, M - Headcovering Customs of the Ancient World (2005).pdf`",
+  "evidence_type": "`[E]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q30",
+  "topic": "Marlowe: the one face-wrapped statuette",
+  "quote": "the himation \"wrapped across the lower part of her face … but this is unusual\"",
+  "attribution": "Marlowe 2005: 3.",
+  "corpus_file": "",
+  "evidence_type": "`[E]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q31",
+  "topic": "Chadwick / Dio Chrysostom on Tarsus",
+  "quote": "\"that nobody could see any part of them, neither of the face nor of the rest of the body\"",
+  "attribution": "Dio Chrysostom, *Or.* 33.48, quoted in Chadwick, *Headdress or Hairstyle* (2022), 7–8.",
+  "corpus_file": "`Chadwick, C - Headdress or Hairstyle A Study of 1 Cor 11 (2022).pdf`",
+  "evidence_type": "`[E]`",
+  "verified": "◐"
+ },
+ {
+  "id": "Q32",
+  "topic": "Nõmmik on Tarsus",
+  "quote": "\"there is no reason to believe that all women of first-century [Tarsus] dressed this way\"",
+  "attribution": "Nõmmik 2025: 40.",
+  "corpus_file": "",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q33",
+  "topic": "Jeremias on the Jerusalem woman's veils",
+  "quote": "\"her face was hidden by an arrangement of two head veils, a head-band on the forehead with bands to the chin, and a hairnet with ribbons and knots, so that her features could not be recognized\"",
+  "attribution": "Joachim Jeremias, quoted in Marlowe 2005: 8.",
+  "corpus_file": "",
+  "evidence_type": "`[E]` (as reported)",
+  "verified": "◐"
+ },
+ {
+  "id": "Q34",
+  "topic": "Marlowe's counter-argument",
+  "quote": "\"We would expect him to use a word or expression for the face-covering or veil (`κάλυμμα`), at least, but that is not the case here.\"",
+  "attribution": "Marlowe 2005: 10.",
+  "corpus_file": "",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q35",
+  "topic": "Barrett: not a face covering",
+  "quote": "\"concealing the hair and upper part of the body, not as a covering for the face\"",
+  "attribution": "C. K. Barrett, *A Commentary on the First Epistle to the Corinthians* (2nd ed., 1968), 249, following Schlatter.",
+  "corpus_file": "`Barret, C.K. A commentary on the First Epistle to the Corinthians (1968) pp. 246-258.txt`",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q36",
+  "topic": "Mishnah *Shabbat* 6:6",
+  "quote": "\"Arab women may go out veiled\"",
+  "attribution": "Mishnah *Shabbat* 6:6, quoted in Edmondson & Keith (eds), *Dressing Judeans and Christians in Antiquity* (2015), 26.",
+  "corpus_file": "`Edmondson, J., & Keith, A. (Eds.). (2015). Dressing Judeans and Christians ... .pdf`",
+  "evidence_type": "`[E]`",
+  "verified": "◐"
+ },
+ {
+  "id": "Q37",
+  "topic": "Clement of Alexandria: head and face",
+  "quote": "\"it has also been enjoined that the head should be veiled and the face covered\"",
+  "attribution": "Clement, *Paedagogus* 2.10.114, quoted in Martine Leone, *Cultures of Invisibility* (2012), 281 n.22.",
+  "corpus_file": "`Leone, M. (2012). Cultures of Invisibility ... .pdf`",
+  "evidence_type": "`[E]`",
+  "verified": "◐"
+ },
+ {
+  "id": "Q38",
+  "topic": "Clement: the covering that conceals the eyes",
+  "quote": "\"women should additionally wear a covering that conceals their eyes\"",
+  "attribution": "Clement, *Paed.* 2.10.106–107, translated in Nõmmik 2025: 301; Greek `εἰ δὲ καὶ σκέπην ταύτην παραληπτέον, καθ' ἣν κρύπτειν ὅμματα θηλειῶν χρεών`.",
+  "corpus_file": "",
+  "evidence_type": "`[E]`",
+  "verified": "✅ (Greek quoted in Nõmmik)"
+ },
+ {
+  "id": "Q39",
+  "topic": "Clement: not bearing the face",
+  "quote": "\"by not bearing her face, but covering it with a veil, she also prevents anyone else from sinning\"",
+  "attribution": "Clement, *Paed.* 3.11.79, translated in Nõmmik 2025: 302.",
+  "corpus_file": "",
+  "evidence_type": "`[E]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q40",
+  "topic": "Tertullian: the Arab women",
+  "quote": "\"Arabia's heathen females will be your judges, who cover not only the head, but the face also, so entirely, that they are content, with one eye free …\"",
+  "attribution": "Tertullian, *De virginibus velandis* 17 (ANF vol. 4, trans. S. Thelwall).",
+  "corpus_file": "no full text in the folder; external check at New Advent (see `09`).",
+  "evidence_type": "`[E]`",
+  "verified": "✅ (external)"
+ },
+ {
+  "id": "Q41",
+  "topic": "Tertullian: the veil's extent is the hairline",
+  "quote": "\"The region of the veil is co-extensive with the space covered by the hair when unbound; in order that the necks too may be encircled.\"",
+  "attribution": "Tertullian, *Virg.* 17.",
+  "corpus_file": "",
+  "evidence_type": "`[E]`",
+  "verified": "✅ (external)"
+ },
+ {
+  "id": "Q42",
+  "topic": "Tertullian: the shrouded face",
+  "quote": "\"who will have the audacity to intrude with his eyes upon a shrouded face?\"",
+  "attribution": "Tertullian, *Virg.* 15.",
+  "corpus_file": "",
+  "evidence_type": "`[E]`",
+  "verified": "✅ (external)"
+ },
+ {
+  "id": "Q43",
+  "topic": "Didascalia: cover the head with the robe",
+  "quote": "\"when thou walkest in the street, cover thy head with thy robe, that by reason of thy veil thy great beauty may be hidden.\"",
+  "attribution": "*Didascalia Apostolorum* 1.8–9, trans. Margaret Dunlop Gibson (1903).",
+  "corpus_file": "external (Syriac Didascalia text); cited via Radle 2019: 1086.",
+  "evidence_type": "`[E]`",
+  "verified": "✅ (external)"
+ },
+ {
+  "id": "Q44",
+  "topic": "Didascalia: the face presumed concealed",
+  "quote": "\"if thou coverest thy face from strange men with a veil of modesty, how then canst thou go in with strange men to a bath?\"",
+  "attribution": "*Didasc.* 1.8–9 (Gibson).",
+  "corpus_file": "",
+  "evidence_type": "`[E]`",
+  "verified": "✅ (external)"
+ },
+ {
+  "id": "Q45",
+  "topic": "Chrysostom: head only",
+  "quote": "\"She covers her head while he keeps his bare.\"",
+  "attribution": "John Chrysostom, *Hom. 1 Cor.* 26, in Judith Kovacs, *1 Corinthians Interpreted by Early Christian Medieval Commentators* (2005), 179.",
+  "corpus_file": "`Kovacs, J - 1 Corinthians Interpreted ... pp. 177-180 (2005).txt`",
+  "evidence_type": "`[E]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q46",
+  "topic": "Theodoret: the veil is \"authority\"",
+  "quote": "\"Paul calls the veil authority. This means: let her show her subjection, making herself humble, not least on account of the angels…\"",
+  "attribution": "Theodoret on 11:10, in Kovacs 2005: 183.",
+  "corpus_file": "",
+  "evidence_type": "`[E]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q47",
+  "topic": "Jerome: face veil except the eyes",
+  "quote": "praises a woman who \"veils all of her face except her eyes\"",
+  "attribution": "Jerome, *Ep.* 130.18 (414), in Radle 2019: 1086 n.77.",
+  "corpus_file": "`Radle, G. (2019). The Veiling of Women in Byzantium ... .pdf`",
+  "evidence_type": "`[E]`",
+  "verified": "◐"
+ },
+ {
+  "id": "Q48",
+  "topic": "Ambrose: head and face",
+  "quote": "covers \"head (`caput`)\" and \"face (`vultus`)\"",
+  "attribution": "Ambrose, *De poenitentia* 1.14, in Radle 2019: 1086 n.77.",
+  "corpus_file": "",
+  "evidence_type": "`[E]`",
+  "verified": "◐"
+ },
+ {
+  "id": "Q49",
+  "topic": "Radle: face references are rare",
+  "quote": "\"References to facial coverage are quite rare\"",
+  "attribution": "Gabriel Radle, \"The Veiling of Women in Byzantium,\" *Speculum* 94 (2019): 1092.",
+  "corpus_file": "",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q50",
+  "topic": "Radle: Tertullian does not require the face",
+  "quote": "Tertullian \"does not advocate facial veils for Christian women\"",
+  "attribution": "Radle 2019: 1085 n.71.",
+  "corpus_file": "",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q51",
+  "topic": "Upson-Saia on the Carthaginian context",
+  "quote": "the virgins \"were additionally to remain veiled in church\" but face-covering was the practice of \"pagan women of Arabia\"",
+  "attribution": "Kristi Upson-Saia, *Early Christian Dress* (2011), 62–63.",
+  "corpus_file": "`Upson-Saia, K. (2011). Early Christian dress ... .pdf`",
+  "evidence_type": "`[I]`",
+  "verified": "◐"
+ },
+ {
+  "id": "Q52",
+  "topic": "Conzelmann: head \"or face\"",
+  "quote": "\"the rule that the head or face is not to be covered … the head, and more particularly the face, constitutes in a special way the archetype/image relationship\"",
+  "attribution": "Hans Conzelmann, *1 Corinthians* (Philadelphia, 1975), 187.",
+  "corpus_file": "`Conzelmann, H - 1 Corinthians (1975) pp. 181-191.txt`",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q53",
+  "topic": "Héring: hair and part of the face",
+  "quote": "\"a veil which was to conceal the hair and part of the face (at least the forehead)\"",
+  "attribution": "Jean Héring, *The First Epistle of Saint Paul to the Corinthians* (1962), 106.",
+  "corpus_file": "`Héring, J. - The first epistle ... (1962) pp. 102-111..txt`",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q54",
+  "topic": "Héring: two kinds of veil in the iconography",
+  "quote": "\"the long veil covering the face and part of the bust\" (mourning, marriage, travel) versus \"the short veil concealing the hair, the ears and the forehead\" (obligatory in good families)",
+  "attribution": "Héring 1962: 109 n.31.",
+  "corpus_file": "",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q55",
+  "topic": "Hodge: the eastern veil covered the face",
+  "quote": "\"the common eastern veil which covered the face, with the exception of the eyes\"",
+  "attribution": "Charles Hodge, *An Exposition of the First Epistle to the Corinthians* (1874), 209.",
+  "corpus_file": "`18 and 19th Century\\Hodge, C - An exposition ... (1874).txt`",
+  "evidence_type": "`[I]`",
+  "verified": "◐"
+ },
+ {
+  "id": "Q56",
+  "topic": "Edwards: \"veiled faces\"",
+  "quote": "\"Women are enjoined to veil their faces\"",
+  "attribution": "T. C. Edwards, *A Commentary on the First Epistle to the Corinthians* (1835), 270–271.",
+  "corpus_file": "`18 and 19th Century\\Edwards T.C. - A Commentary ... (1835).txt`",
+  "evidence_type": "`[I]`",
+  "verified": "◐"
+ },
+ {
+  "id": "Q57",
+  "topic": "Goulder: the veil drawn down over the face",
+  "quote": "\"the veil or hood is drawn down over the face for both males and females\"",
+  "attribution": "Michael D. Goulder, *Paul and the Competing Mission in Corinth* (2001), 136–37, as reported by Massey 2018: 504 n.12.",
+  "corpus_file": "",
+  "evidence_type": "`[I]`",
+  "verified": "✅ (the report of Goulder's view)"
+ },
+ {
+  "id": "Q58",
+  "topic": "Reasoner: the text leaves it open",
+  "quote": "\"The last imperative of the verse, κατακαλυπτέσθω, leaves open the question of whether Paul has a head covering in mind or some sort of veil over the face.\"",
+  "attribution": "Mark Reasoner, *1 Corinthians* (2025), 443.",
+  "corpus_file": "`Reasoner, Mark - 1 Cor (2025).txt`",
+  "evidence_type": "`[I]`",
+  "verified": "◐"
+ },
+ {
+  "id": "Q59",
+  "topic": "Johnson: the text does not mention a cloth covering at all",
+  "quote": "the words \"do not actually mention any cloth covering or veil (whether covering the face or over the head). Instead this sense is read into the texts.\"",
+  "attribution": "Alan F. Johnson, *1 Corinthians* (2004), 189, summarising the hair-thesis.",
+  "corpus_file": "`Johnson. A.F. Corinthians 1 pp. 177-201 (2004).txt`",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q60",
+  "topic": "Marshall: the referent is unclear",
+  "quote": "\"the precise practical issue of head coverings or hairstyles is unclear\"",
+  "attribution": "Jill E. Marshall, \"Uncovering Traditions in 1 Corinthians 11:2–16,\" *Novum Testamentum* 61 (2019): 70.",
+  "corpus_file": "`Marshall, J - Uncovering Traditions in 1 Corinthians 11 2-16 (2019).pdf`",
+  "evidence_type": "`[I]`",
+  "verified": "◐"
+ },
+ {
+  "id": "Q61",
+  "topic": "Martin: the prophylactic veil",
+  "quote": "the head-covering \"symbolizes—and in some way actually seems to enact—the covering of her genitals\"",
+  "attribution": "Dale B. Martin, *The Corinthian Body* (1995), ch. 2, p. 247.",
+  "corpus_file": "`Martin, D. - The Corinthian Body (1995) pp. 229 Chapter 2 Prophylactic Veils.txt`",
+  "evidence_type": "`[I]`",
+  "verified": "◐"
+ },
+ {
+  "id": "Q62",
+  "topic": "Marlowe: the historiographical complaint",
+  "quote": "the \"failure of many commentators to make any distinction between face-veiling and headcovering\"",
+  "attribution": "Marlowe 2005: 14 n.3.",
+  "corpus_file": "",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q63",
+  "topic": "Nõmmik: why the face reading grew",
+  "quote": "\"their solution to this was to limit the visibleness of women\"",
+  "attribution": "Nõmmik 2025: 315–316 (summarising the ascetic-anxiety cause).",
+  "corpus_file": "",
+  "evidence_type": "`[I]`",
+  "verified": "✅"
+ },
+ {
+  "id": "Q64",
+  "topic": "The article's core lexical claim",
+  "quote": "\"This word, by itself, does not refer to covering the face – or even covering the head.\"",
+  "attribution": "David Phillips, \"Why Christian Head Covering Is Not Face Veiling,\" Head Covering Movement.",
+  "corpus_file": "",
+  "evidence_type": "`[I]`",
+  "verified": "n/a (assessment of the article)."
+ },
+ {
+  "id": "Q65",
+  "topic": "The article's argument from silence",
+  "quote": "\"Paul could have specified that Christian women were to cover their faces, but he simply didn't.\"",
+  "attribution": "ibid.",
+  "corpus_file": "",
+  "evidence_type": "",
+  "verified": ""
+ },
+ {
+  "id": "Q66",
+  "topic": "The article's use of Tertullian",
+  "quote": "the Christian women covered their heads while the pagan women \"cover not only the head, but also the face.\"",
+  "attribution": "ibid., citing Tertullian, *Virg.* 17.",
+  "corpus_file": "",
+  "evidence_type": "",
+  "verified": ""
+ },
+ {
+  "id": "Q67",
+  "topic": "The article's conclusion",
+  "quote": "\"neither is face-veiling encouraged by Scripture, much less commanded.\"",
+  "attribution": "ibid.",
+  "corpus_file": "",
+  "evidence_type": "",
+  "verified": ""
+ }
+]

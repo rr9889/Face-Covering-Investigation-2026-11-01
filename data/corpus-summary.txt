@@ -1,0 +1,15 @@
+CORPUS: C:\Users\Admin\Documents\Early Christianity\Head Coverings
+TOTAL FILES: 1089
+TOTAL MB: 754.6
+
+ext          count        MB
+.png           582     269.3
+.txt           200      27.7
+.pdf           112     455.4
+.json          105       0.8
+.md             83       0.4
+.docx            3       0.1
+.webp            1       0.0
+.ini             1       0.0
+.com             1       0.8
+.log             1       0.0
