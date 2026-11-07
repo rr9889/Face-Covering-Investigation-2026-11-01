@@ -4,6 +4,8 @@
 
 **Short answer:** the first Christian text that clearly requires face-covering is Clement of Alexandria, c. 190–200. Before that, silence. After that, a mixed record: some writers require or praise it (Clement, the *Didascalia*, Jerome, Ambrose), some describe a head-covering that stops at the hairline (Tertullian's own rule, Chrysostom, Theodoret), and most of the later church veils the hair and head, not the face. Face-covering is a real Christian practice, but a regional and ascetic one, never a universal norm.
 
+> **[Audit 2026-11-07]** Correction: Chrysostom and Theodoret do not describe a covering that "stops at the hairline"; they are silent on the face, and Chrysostom stresses wrapping "on every side". Tertullian's hairline rule concerns how far *down the back* the veil reaches (to cover the neck), not the face. "Before that, silence" should include Hermas (Rome, 2nd c.), whose veiled woman has her face visible. See `11-independent-audit.md` A4–A5.
+
 ---
 
 ## 1. The silence of the first 150 years
@@ -98,6 +100,8 @@ And elsewhere:
 
 Chrysostom treats the covering as dress, like a "mantle or a veil," and reads it as the sign of subjection. He speaks of the head being wrapped "on all sides" (Radle 2019: 1086) — head and hair, not face.
 
+> **[Audit 2026-11-07]** Chrysostom does **not** say "not face"; he is silent on it. His words (NPNF, *Hom. 26*): "he said not merely covered, but **covered over**, meaning that she be carefully wrapped up **on every side**." Code: *silent on the face; stresses completeness*. See `11-independent-audit.md` A4.
+
 **Assessment:** the greatest Greek commentator on Paul says nothing about the face. This is significant because he is arguing precisely about what the covering is and what it signifies.
 
 ---
@@ -107,6 +111,8 @@ Chrysostom treats the covering as dress, like a "mantle or a veil," and reads it
 > "Paul calls the veil authority. This means: let her show her subjection, making herself humble, not least on account of the angels…" — on 11:10, in Kovacs 2005: 183
 
 Again: veil = authority, no face.
+
+> **[Audit 2026-11-07]** "No face" here means *no mention* of the face, not a statement that the face stays uncovered. Code: *silent*.
 
 ---
 
@@ -144,13 +150,14 @@ Radle 2019 is the fullest treatment in the corpus.
 
 | Date | Place | Source | Head | Face | Status |
 |---|---|---|---|---|---|
-| 1st c. | Corinth | Paul | ✔ | — | required (head only) |
+| 1st c. | Corinth | Paul | ✔ | — | head required; face not mentioned |
+| early–mid 2nd c. | Rome | Hermas, *Vis.* 4.2.1 | ✔ | visible | allegory: veiled "to the forehead" *(row added by audit)* |
 | c. 190–200 | Alexandria | Clement | ✔ | ✔ | required (ascetic) |
 | c. 200–213 | Carthage | Tertullian | ✔ | admired | not imposed; rule = head/neck |
 | c. 230 | N. Syria | Didascalia | ✔ | ✔ | presumed |
 | c. 250 | Carthage | Cyprian | ✔ | — | not mentioned |
-| c. 390–407 | Antioch | Chrysostom | ✔ | — | head only |
-| c. 393–457 | Cyrrhus | Theodoret | ✔ | — | head only |
+| c. 390–407 | Antioch | Chrysostom | ✔ | — | silent on face; "wrapped up on every side" *(audit: was "head only")* |
+| c. 393–457 | Cyrrhus | Theodoret | ✔ | — | silent on face *(audit: was "head only")* |
 | 414 | Bethlehem/Rome | Jerome | ✔ | ✔ | ascetic ideal |
 | c. 390 | Milan | Ambrose | ✔ | ✔ | ascetic ideal |
 | 11th–12th c. | Constantinople | Psellos; Radle | ✔ | rare | elite |
@@ -164,9 +171,11 @@ Radle 2019 is the fullest treatment in the corpus.
 |---|---|---|
 | Face-covering is attested in early Christianity | True (from c. 190) | high |
 | Face-covering was required by the earliest Christian writers | False — the earliest (Chrysostom, Theodoret) say head only | high |
+| *[Audit 2026-11-07] correction to the row above* | The earliest writers on the covering's form are Hermas (face visible), Clement (face covered) and Tertullian (Christian women's faces visible). Chrysostom and Theodoret are c. 390–450 and silent on the face. The earliest evidence is **split by region**, not "head only". | high (for the split) |
 | Face-covering was universal in the early church | False | high |
 | Face-covering was an ascetic and regional extension | True | high |
 | The face-reading was driven partly by the `κάλυμμα` variant | Well-supported | high |
+| *[Audit 2026-11-07] qualification to the row above* | `κάλυμμα` = "head-covering, veil" (BDAG), so the variant supports reading "authority" as a *covering*, not specifically as a *face* covering; the causal link to face-veiling is not shown | low–contested |
 | Face-covering is a later Islamic import | False | high |
 
 **The pattern:** head covering everywhere; face covering as a regional and ascetic intensification, first clearly required in Alexandria around 190–200, admired in Carthage and Syria, practised by elite ascetics in the West, rare in Byzantium, and never made universal.

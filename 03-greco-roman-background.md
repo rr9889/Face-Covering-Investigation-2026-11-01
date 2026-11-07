@@ -77,12 +77,15 @@ Marlowe: "the headcovering is usually just the himation pulled over the top and 
 ### 3.4 The scholarly split
 
 - **Llewellyn-Jones** (*Aphrodite's Tortoise*) treats the veil as "any garment that covers the head or the face," and argues for a pervasive Greek veiling culture.
+  > **[Audit 2026-11-07]** His face-veil evidence is relayed in the corpus but was not used here: the *tegidion*, "a rectangular cloth worn over the face with holes cut out for eyes", with examples from Alexandria and Pergamon (*follow-up: Llewellyn-Jones's own statement confirms Alexandria and Greek North Africa, not Pergamon; the Theban source is the single Heraclides/Ps.-Dicaearchus text*); Theban full-face veiling; Plutarch, *Greek Questions* 49, Chalcedonian women veiling half the face (Montier 2015, the file mislabelled "Harmon", pp. 14–15). See `11-independent-audit.md` A7.
 - **Smith** (2014: 19–21) criticises exactly this: the term "can often refer to anything from covering of the head, to the face, or both without differentiation," which makes the thesis less surprising than its title. Smith refuses the word "veil" altogether and specifies which body part is covered.
 - **Massey** (2015: 54): "the wearing of a veil by married women is generally held by most classical scholars to be the Greek norm."
 
 The disagreement is partly semantic. It is not settled.
 
 ### 3.5 Tarsus — an extreme local custom
+
+> **[Audit 2026-11-07]** Two points missing from the weighing: Tarsus is **Paul's home city** (Conzelmann: "From Tarsus Paul is familiar with veiling as a universal custom"), and Dio presents the face-covering as a custom **still in force** c. 100 CE (`τῶν νῦν ἔτι μενόντων`), a survival of the city's older strictness. (An earlier version of this note said Dio describes the custom as decaying; that was Conzelmann's paraphrase and is wrong. Dio laments moral decay despite the veil.) See audit A8 and its follow-up.
 
 Dio Chrysostom, *Or.* 33.48 (Tarsian Discourse), on the women of Tarsus:
 

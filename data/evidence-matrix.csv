@@ -1,0 +1,22 @@
+id,evidence,place,date,genre,H_open,H_face,H_variable,weight,verification,source
+E1,"Paul's stated object is the head (11:7 τὴν κεφαλήν; 11:10 on the head)",Corinth,c. 54 CE,prescriptive text,+,-,+,S (criterion) / W (extent),verified,Native Greek.txt
+E2,"Hair/shaving logic: uncovered = shorn (11:5-6; 14-15)",Corinth,c. 54 CE,prescriptive text,+,0,+,M,verified,Native Greek.txt
+E3,"πρόσωπον absent; Paul names the face elsewhere when relevant (2 Cor 3:7,13,18; 1 Cor 13:12; 14:25)",Pauline corpus,c. 54-56 CE,text (silence),+,-,+,M,verified,NT text
+E4,"LXX κατακαλύπτω: body-part object is the face 3/3 (Gen 38:15 mid.; Isa 6:2; Jer 28:51); never the head",LXX,3rd-1st c. BCE,lexical,0,+,0,W,verified,data/lxx-katakalypto-concordance.csv
+E5,"Hermas Vis. 4.2.1: woman veiled 'to the forehead' with a mitra",Rome,early-mid 2nd c.,allegory,+,-,0,M,via BDAG,BDAG s.v. κατακαλύπτω
+E6,"Ps.-Dicaearchus (= Heraclides Criticus): Theban 'covering on the head' hides the whole face; the only Theban source",Thebes (Boeotia),3rd c. BCE,ethnographic description,0,+,+,M,via BDAG,BDAG s.v. κατακαλύπτω
+E7,"Roman matron's palla; Horace: only her face visible",Rome,1st c. BCE,literary description,+,-,0,M,dossier-verified,Smith 2014 p.54
+E8,"Male capite velato (background to 11:4): head draped, face visible",Roman world,1st c. CE,iconography + text,+,-,0,M (conditional on 11:4 reading),dossier-reported,Massey 2018; Gill 1990
+E9,"Corinthian portraits mostly bare-headed; veiled ones show faces",Corinth,1st c. CE,portraiture (face-biased),+,-,0,W,second-hand,Gill 1990
+E10,"Hellenistic tegidion: full-face veil with eye holes; Alexandria and Greek North Africa; 'not sure how far-flung'",Alexandria / N. Africa,late 4th c. BCE onward,terracottas (per Llewellyn-Jones),0,+,+,W,partly verified (author's own statement; book not obtained),Llewellyn-Jones podcast 'Women Who Went Before' S2E3; Montier 2015 pp.14-15
+E10b,"Plutarch Greek Questions 49: Chalcedonian women veil one cheek before strange men/officials (living custom)",Chalcedon (Bithynia),c. 100 CE,aetiological question,0,+,+,W-M,verified in Greek (Babbitt),PerseusDL tlg0007.tlg084b perseus-grc3
+E4b,"Josephus Ant. 7.254: absolute middle κατακαλυψαμένου for David's mourning; source (2 Sam 19:5) = covered his face",Judaea (Josephus in Rome),c. 93 CE,history (paraphrase),0,+,+,W,verified (Niese via Perseus),Perseus 1999.01.0145 bk7 s254
+E4c,"Susanna 32 (Th): married woman κατακεκαλυμμένη; unveiled so elders may feast on her beauty",Jewish (Greek),2nd-1st c. BCE (Th. later),narrative,0,+,+,W,verified (Rahlfs-based Th text),sacred-texts.com Susanna Th
+E11,"Dio Chrysostom Or. 33.48-49: Tarsian women walk with faces covered; custom 'still in force' (survival of old strictness); NOT 'decaying'",Tarsus,c. 100 CE,oration (description),0,+,+,M,verified in Greek (PerseusDL tlg0612.tlg001 grc2),Dio Or. 33.48-49; Payne 2015 n.45; Marlowe 2005 p.17
+E12,"Num 5:18 LXX 'uncover the head'; m. Shabb. 6:6 Arabian women go out veiled (as distinctive)",Judaea / diaspora,LXX; c. 200 CE,legal,+,-,+,W,second-hand,Fee 1987; Edmondson & Keith 2015 p.26
+E13,"Tertullian Virg. vel. 17: Christian women not covering face; Arab women cover face",Carthage,c. 207 CE,polemic,+,-,+,M,dossier-verified (ANF),New Advent ANF 4
+E14,"Clement Paed. 3.11: entirely covered; not uncovering her face; pray veiled",Alexandria,c. 195 CE,catechetical prescription,-,+,+,M,verified (ANF),New Advent ANF 2
+E15,"Didascalia 1.8-9: head covered with robe; face veiled outdoors",Syria,c. 230 CE,church order,-,+,+,W-M,dossier-verified,Gibson trans.
+E16,"Chrysostom Hom. 26 in 1 Cor: 'covered over ... wrapped up on every side'; silent on face",Antioch,c. 390 CE,homily,0,0,0,W,verified (NPNF),New Advent NPNF 1.12
+E17,"11:10 v.l. κάλυμμα (= 'head-covering, veil' per BDAG)",Latin/Coptic witnesses,2nd c.+,textual,0,0,0,W,dossier-reported,Nõmmik 2025 pp.300-301; BDAG
+E18,"Jerome Ep. 130; Ambrose: praise face-veiling",Rome/Bethlehem; Milan,late 4th c.,ascetic letters,0,+,+,W,second-hand,Radle 2019

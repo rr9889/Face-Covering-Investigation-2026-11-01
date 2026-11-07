@@ -1,0 +1,1894 @@
+SOURCE URL: https://www.blueletterbible.org/lexicon/g2619/lxx/lxx/0-1/
+FETCHED: 2026-11-07
+USED FOR: All LXX occurrences of κατακαλύπτω (G2619); basis of data/lxx-katakalypto-concordance.csv (audit A3)
+RAW FILE: lxx_katakalypto_g2619_concordance_blb.html
+
+===== FULL READABLE TEXT =====
+G2619 - katakalyptō - Strong's Greek Lexicon (LXX) 
+
+ Help 
+ QuickNav 
+ Adv. Options 
+
+ LXX 
+
+ Clear Advanced Options 
+
+ Search a pre-defined list
+
+ The Whole Bible 
+ The Old Testament 
+ The New Testament 
+ ────────────── 
+ Pentateuch 
+ Historical Books 
+ Poetical Books 
+ Wisdom Literature 
+ Prophets 
+ Major Prophets 
+ Minor Prophets 
+ ────────────── 
+ The Gospels 
+ Luke-Acts 
+ Pauline Epistles 
+ General Epistles 
+ Johannine Writings 
+ ────────────── 
+ Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth 1 Samuel 2 Samuel 1 Kings 2 Kings 1 Chronicles 2 Chronicles Ezra Nehemiah Esther Job Psalms Proverbs Ecclesiastes Song of Songs Isaiah Jeremiah Lamentations Ezekiel Daniel Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah Malachi Matthew Mark Luke John Acts Romans 1 Corinthians 2 Corinthians Galatians Ephesians Philippians Colossians 1 Thessalonians 2 Thessalonians 1 Timothy 2 Timothy Titus Philemon Hebrews James 1 Peter 2 Peter 1 John 2 John 3 John Jude Revelation 
+
+ OR Select a range of biblical books
+
+ From: 
+
+ Select a Beginning Point 
+ Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth 1 Samuel 2 Samuel 1 Kings 2 Kings 1 Chronicles 2 Chronicles Ezra Nehemiah Esther Job Psalms Proverbs Ecclesiastes Song of Songs Isaiah Jeremiah Lamentations Ezekiel Daniel Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah Malachi Matthew Mark Luke John Acts Romans 1 Corinthians 2 Corinthians Galatians Ephesians Philippians Colossians 1 Thessalonians 2 Thessalonians 1 Timothy 2 Timothy Titus Philemon Hebrews James 1 Peter 2 Peter 1 John 2 John 3 John Jude Revelation 
+
+ To: 
+
+ Select an Ending Point 
+ Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth 1 Samuel 2 Samuel 1 Kings 2 Kings 1 Chronicles 2 Chronicles Ezra Nehemiah Esther Job Psalms Proverbs Ecclesiastes Song of Songs Isaiah Jeremiah Lamentations Ezekiel Daniel Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah Malachi Matthew Mark Luke John Acts Romans 1 Corinthians 2 Corinthians Galatians Ephesians Philippians Colossians 1 Thessalonians 2 Thessalonians 1 Timothy 2 Timothy Titus Philemon Hebrews James 1 Peter 2 Peter 1 John 2 John 3 John Jude Revelation 
+
+ OR Custom Selection:
+
+ Use semicolons to separate groups:
+ 'Gen;Jdg;Psa-Mal' or 'Rom 3-12;Mat 1:15;Mat 5:12-22'
+
+ LXX 
+
+ Click to Change 
+
+ Return to Top
+
+ Link 
+ Share 
+
+ Cite This 
+ Follow 
+
+ Print
+
+ Copy
+
+ Copy Options
+
+ Strong's
+
+ Red Letter
+
+ KJV (Narrated) 
+ NKJV (Narrated) 
+ NKJV (Dramatized) 
+ NLT (Dramatized) 
+ NIV (Narrated) 
+ ESV (Narrated) 
+ NASB95 (Narrated) 
+
+ RVR60 (Español) 
+ NAV (Arabic) 
+
+ Line-By-Line Order:
+
+ Verse-Reference
+
+ Reference-Verse
+
+ Separate Line
+
+ Verse Only
+
+ Reference Only
+
+ Reference Delimiters:
+
+ None — Jhn 1:1 KJV
+
+ Square — [Jhn 1:1 KJV]
+
+ Curly — {Jhn 1:1 KJV}
+
+ Parens — (Jhn 1:1 KJV)
+
+ Paragraph Order:
+
+ Verse-Reference
+
+ Reference-Verse
+
+ Reference-Only
+
+ Number Delimiters: * 
+
+ No Number
+
+ No Delimiter — 15
+
+ Square — [15]
+
+ Curly — {15}
+
+ Parens — (15)
+
+ Other Options:
+
+ Abbreviate Books
+
+ Use SBL Abbrev.
+
+ En dash not Hyphen
+
+ Quotes Around Verses
+
+ Remove Square Brackets
+
+ Select All Verses
+
+ Clear All Verses
+
+ * 'Number Delimiters' only apply to 'Paragraph Order'
+
+ * 'Remove Square Brackets' does not apply to the Amplified Bible
+
+ Search 
+
+ Study 
+
+ Devotionals 
+
+ Help 
+
+ Apps & Tools 
+
+ Ministries 
+
+ About 
+
+ Donate 
+
+ Search
+
+ Bible Search
+
+ LXX 
+
+  [?] 
+
+ Advanced Options 
+ There are options set in 'Advanced Options'
+
+ Clear Advanced Options 
+
+ Search a pre-defined list
+
+ The Whole Bible 
+ The Old Testament 
+ The New Testament 
+ ────────────── 
+ Pentateuch 
+ Historical Books 
+ Poetical Books 
+ Wisdom Literature 
+ Prophets 
+ Major Prophets 
+ Minor Prophets 
+ ────────────── 
+ The Gospels 
+ Luke-Acts 
+ Pauline Epistles 
+ General Epistles 
+ Johannine Writings 
+ ────────────── 
+ Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth 1 Samuel 2 Samuel 1 Kings 2 Kings 1 Chronicles 2 Chronicles Ezra Nehemiah Esther Job Psalms Proverbs Ecclesiastes Song of Songs Isaiah Jeremiah Lamentations Ezekiel Daniel Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah Malachi Matthew Mark Luke John Acts Romans 1 Corinthians 2 Corinthians Galatians Ephesians Philippians Colossians 1 Thessalonians 2 Thessalonians 1 Timothy 2 Timothy Titus Philemon Hebrews James 1 Peter 2 Peter 1 John 2 John 3 John Jude Revelation 
+
+ OR Select a range of biblical books
+
+ From: 
+
+ Select a Beginning Point 
+ Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth 1 Samuel 2 Samuel 1 Kings 2 Kings 1 Chronicles 2 Chronicles Ezra Nehemiah Esther Job Psalms Proverbs Ecclesiastes Song of Songs Isaiah Jeremiah Lamentations Ezekiel Daniel Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah Malachi Matthew Mark Luke John Acts Romans 1 Corinthians 2 Corinthians Galatians Ephesians Philippians Colossians 1 Thessalonians 2 Thessalonians 1 Timothy 2 Timothy Titus Philemon Hebrews James 1 Peter 2 Peter 1 John 2 John 3 John Jude Revelation 
+
+ To: 
+
+ Select an Ending Point 
+ Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth 1 Samuel 2 Samuel 1 Kings 2 Kings 1 Chronicles 2 Chronicles Ezra Nehemiah Esther Job Psalms Proverbs Ecclesiastes Song of Songs Isaiah Jeremiah Lamentations Ezekiel Daniel Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah Malachi Matthew Mark Luke John Acts Romans 1 Corinthians 2 Corinthians Galatians Ephesians Philippians Colossians 1 Thessalonians 2 Thessalonians 1 Timothy 2 Timothy Titus Philemon Hebrews James 1 Peter 2 Peter 1 John 2 John 3 John Jude Revelation 
+
+ OR Custom Selection:
+
+ Use semicolons to separate groups:
+ 'Gen;Jdg;Psa-Mal' or 'Rom 3-12;Mat 1:15;Mat 5:12-22'
+
+ LexiConc Search
+
+ (Hebrew/Greek Search by English Definition)
+
+  [?] 
+
+ Theological FAQ Search
+
+  [?] 
+
+ Multiverse Retrieval
+
+ LXX 
+
+ Retrieve Adv. Options 
+
+ Line-By-Line Order: 
+
+   Verse-Reference
+
+   Reference-Verse
+
+   Separate Line
+
+   Verse Only
+
+   Reference Only
+
+ Paragraph Order: 
+
+   Verse-Reference
+
+   Reference-Verse
+
+   Reference-Only
+
+ Number Delimiters: * 
+
+   No Number
+
+   No Delimiter — 15
+
+   Square — [15]
+
+   Curly — {15}
+
+   Parens — (15)
+
+ Other Options: 
+
+   Abbreviate Books
+
+      Use SBL Abbrev.
+
+   En dash Hyphen
+
+ Reference Delimiters: 
+
+   None — Jhn 1:1 KJV
+
+   Square — [Jhn 1:1 KJV]
+
+   Curly — {Jhn 1:1 KJV}
+
+   Parens — (Jhn 1:1 KJV)
+
+   Quotes Around Verses
+
+   Remove Square Brackets
+
+   Sort Canonically
+
+ * 'Number Delimiters' only apply to 'Paragraph Order'
+
+ Browse Dictionary Topics
+
+ a 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ k 
+ l 
+ m 
+
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ v 
+ w 
+ x 
+ y 
+ z 
+
+ Study
+
+ Bible Commentaries
+
+ Text Commentaries 
+
+ Audio & Video Commentaries 
+
+ Bible Reference
+
+ Harmony of the Gospels 
+
+ Encyclopedias / Dictionaries 
+
+ Bible Study Notes 
+
+ Prefaces 
+
+ Introductions to the Bible 
+
+ Charts and Outlines 
+
+ Timelines 
+
+ Maps / Images 
+
+ Biblical Language Resources 
+
+ Inline Interlinear 
+
+ Language Tools 
+
+ Lexical Resources 
+
+ Grammars 
+
+ Concordances 
+
+ Morphology 
+
+ Bible Courses
+
+ (Free) " data-ev-label="Dropdown Modal">BLB Institute (Free) 
+
+ Other Languages
+
+ Spanish (Español) Resources 
+
+ Theological Resources
+
+ Articles / Books 
+
+ Women's Resources 
+
+ Don Stewart FAQs 
+
+ BLB Theological FAQs 
+
+ Missions Resources 
+
+ Cult Evangelism Resources 
+
+ Creeds, Catechisms, and Confessions 
+
+ Topical Indexes
+
+ Hitchcock's Topical Analysis 
+
+ Thompson's Chain Reference 
+
+ The Names of God 
+
+ Our God Is… We Are… 
+
+ Put Off… Put On… 
+
+ Multimedia
+
+ Media 
+
+ Music 
+
+ Free Bible Courses on Christian Belief & Practice
+
+ Browse Courses 
+
+ Devotionals & Reading Plans
+
+ Day by Day by Grace 
+
+ Today's Reading 
+
+ Scripture Index 
+
+ Calendar Index 
+
+ Morning and Evening 
+
+ This Morning's Reading 
+
+ This Evening's Reading 
+
+ Scripture Index 
+
+ Calendar Index 
+
+ BLB Daily Promises 
+
+ Today's Reading 
+
+ Scripture Index 
+
+ Calendar Index 
+
+ Faith's Checkbook 
+
+ Today's Reading 
+
+ Scripture Index 
+
+ Calendar Index 
+
+ Bible Reading Plans 
+
+ Today's Reading 
+
+ Daily Bible Reading Plans 
+
+ Help
+
+ Video Tutorials
+
+ Quickstart Guide 
+
+ Essentials - The Bible 
+
+ Essentials - 
+Word Searching 
+
+ Customization 
+
+ Advanced BLB 
+
+ Help Tutorials
+
+ How to get started 
+
+ How to use the Bible Tools 
+
+ How to use the Search Tools 
+
+ Miscellaneous 
+
+ Support
+
+ Apple iOS App Support 
+
+ Android App Support 
+
+ BLB Institute Support 
+
+ Donor Support 
+
+ Website Questions 
+
+ General Questions 
+
+ Theological Questions 
+
+ Featured Apps & Tools
+
+ Free Bible
+Apps
+
+ Download BLB's Free Bible App
+
+ Digital Markup Bible Study Tool
+
+ Visit
+
+ Free Bible Courses
+
+ Visit
+
+ All Apps & Tools
+
+ Free Bible Apps
+
+ Apple iOS 
+
+ Google Android 
+
+ Digital Markup Bible Study
+
+ ScriptureMark 
+
+ Bible Courses
+
+ BLB Institute (Free) 
+
+ Free Social Tools
+
+ Sharable Social Images 
+
+ Free Web Tools
+
+ BLB ScriptTagger 
+
+ BLB Web Search Tool 
+
+ BLB Blog 
+
+ BLB Offline
+
+ BLB CD 
+
+ Digital Products
+
+ Digital Books 
+
+ Digital Videos 
+
+ Ministries
+
+ Co-Laboring
+
+ Sowing Circle 
+
+ Co-Laboring Ministries 
+
+ About
+
+ About BLB 
+
+ Statement of Faith 
+
+ History of BLB 
+
+ Ministry FAQs 
+
+ LiveMap 
+
+ Newsletter 
+
+ Ad Partnerships 
+
+ Permissions 
+
+ Share Your BLB Story 
+
+ Contact 
+
+ Donate
+
+ Gift Options
+
+ Credit Card/ACH 
+
+ PayPal 
+
+ Venmo 
+
+ Mail-In 
+
+ Planned Giving 
+
+ Gifts of Stock 
+
+ All Gift Options 
+
+ Donor Information
+
+ Donor Portal Login 
+
+ Our Funding Model 
+
+ Support & FAQs 
+
+ RaiseDonors Information 
+
+ Donate Now 
+
+ LOGIN 
+
+ Menu 
+
+ Search 
+
+ Study 
+
+ Devotionals 
+
+ Help 
+
+ Apps & Tools 
+
+ Ministries 
+
+ About 
+
+ Donate 
+
+ Login 
+
+ Preferences 
+
+ View:
+
+ Desktop
+
+ Mobile
+
+ LXX
+
+ Tap to Change 
+
+ Search verses, phrases, and topics (e.g. John 3:16 , Jesus faith love ) 
+
+ LXX 
+
+ Help 
+ Quick Nav 
+ Advanced Options 
+
+ Clear Advanced Options 
+
+ Search a pre-defined list
+
+ The Whole Bible 
+ The Old Testament 
+ The New Testament 
+ ────────────── 
+ Pentateuch 
+ Historical Books 
+ Poetical Books 
+ Wisdom Literature 
+ Prophets 
+ Major Prophets 
+ Minor Prophets 
+ ────────────── 
+ The Gospels 
+ Luke-Acts 
+ Pauline Epistles 
+ General Epistles 
+ Johannine Writings 
+ ────────────── 
+ Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth 1 Samuel 2 Samuel 1 Kings 2 Kings 1 Chronicles 2 Chronicles Ezra Nehemiah Esther Job Psalms Proverbs Ecclesiastes Song of Songs Isaiah Jeremiah Lamentations Ezekiel Daniel Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah Malachi Matthew Mark Luke John Acts Romans 1 Corinthians 2 Corinthians Galatians Ephesians Philippians Colossians 1 Thessalonians 2 Thessalonians 1 Timothy 2 Timothy Titus Philemon Hebrews James 1 Peter 2 Peter 1 John 2 John 3 John Jude Revelation 
+
+ OR Select a range of biblical books
+
+ From: 
+
+ Select a Beginning Point 
+ Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth 1 Samuel 2 Samuel 1 Kings 2 Kings 1 Chronicles 2 Chronicles Ezra Nehemiah Esther Job Psalms Proverbs Ecclesiastes Song of Songs Isaiah Jeremiah Lamentations Ezekiel Daniel Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah Malachi Matthew Mark Luke John Acts Romans 1 Corinthians 2 Corinthians Galatians Ephesians Philippians Colossians 1 Thessalonians 2 Thessalonians 1 Timothy 2 Timothy Titus Philemon Hebrews James 1 Peter 2 Peter 1 John 2 John 3 John Jude Revelation 
+
+ To: 
+
+ Select an Ending Point 
+ Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth 1 Samuel 2 Samuel 1 Kings 2 Kings 1 Chronicles 2 Chronicles Ezra Nehemiah Esther Job Psalms Proverbs Ecclesiastes Song of Songs Isaiah Jeremiah Lamentations Ezekiel Daniel Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah Malachi Matthew Mark Luke John Acts Romans 1 Corinthians 2 Corinthians Galatians Ephesians Philippians Colossians 1 Thessalonians 2 Thessalonians 1 Timothy 2 Timothy Titus Philemon Hebrews James 1 Peter 2 Peter 1 John 2 John 3 John Jude Revelation 
+
+ OR Custom Selection:
+
+ Use semicolons to separate groups:
+ 'Gen;Jdg;Psa-Mal' or 'Rom 3-12;Mat 1:15;Mat 5:12-22'
+
+ Copy 
+ Options 
+
+ Cite 
+ Share 
+ Print 
+
+ Lexicon :: Strong's G2619 - katakalyptō 
+
+ Aa 
+
+ Font Settings 
+
+ Font Size 
+
+ Sorry, Custom Font Sizes are
+
+Not Supported on iOS Devices. 
+
+ Please see the Apple Support Article:
+
+ Change the Text Size for a Website 
+
+ Font Size 
+
+ 100%
+
+ Default
+
+ Bible Text Color 
+
+ Black
+
+ Dark Blue
+
+ Blue
+
+ Font Families 
+
+ English
+
+ Hebrew
+
+ Greek
+
+ In the beginning was the Word 
+ Arial 
+
+ In the beginning was the Word 
+ Trebuchet 
+
+ In the beginning was the Word 
+ Georgia 
+
+ In the beginning was the Word 
+ Times New Roman 
+
+ בְּרֵאשִׁית בָּרָא אֱלֹהִים 
+ SBL Hebrew 
+
+ בְּרֵאשִׁית בָּרָא אֱלֹהִים 
+ Times New Roman 
+
+ בְּרֵאשִׁית בָּרָא אֱלֹהִים 
+ Arial 
+
+ ἐν ἀρχῇ ἦν ὁ λόγος 
+ Gentium 
+
+ ἐν ἀρχῇ ἦν ὁ λόγος 
+ Times New Roman 
+
+ ἐν ἀρχῇ ἦν ὁ λόγος 
+ Arial 
+
+ Strong's 
+
+ Red Letter 
+
+ κατακαλύπτω
+
+ Transliteration
+
+ katakalyptō 
+ (Key) 
+
+ Pronunciation
+
+ kat-ak-al-oop'-to
+ Listen 
+
+ Part of Speech
+
+ verb
+
+ Root Word (Etymology)
+
+ From κατά (G2596) and καλύπτω (G2572) 
+
+ Greek Inflections of κατακαλύπτω [?] 
+
+ mGNT
+3x in 3 unique form(s) 
+ TR
+3x in 3 unique form(s) 
+ LXX
+23x in 12 unique form(s) 
+
+ κατακαλύπτεσθαι — 1x 
+
+ κατακαλυπτέσθω — 1x 
+
+ κατακαλύπτεται — 1x 
+
+ κατακαλύπτεσθαι — 1x 
+
+ κατακαλυπτέσθω — 1x 
+
+ κατακαλύπτεται — 1x 
+
+ κατακαλύπτον — 6x 
+
+ κατακαλύψαι — 2x 
+
+ κατακαλύψει — 3x 
+
+ κατακαλύψεις — 1x 
+
+ κατακαλύψῃ — 1x 
+
+ κατακαλύψομαι — 1x 
+
+ κατακαλύψουσιν — 1x 
+
+ κατακαλύψω — 2x 
+
+ κατεκάλυπτον — 2x 
+
+ κατεκαλύφθη — 1x 
+
+ κατεκαλύψατο — 1x 
+
+ κατεκάλυψεν — 2x 
+
+ Dictionary Aids
+
+ Vine's Expository Dictionary: View Entry 
+ TDNT Reference: 3:561,405 
+
+ Strong's Info
+
+ Strong’s Definitions
+
+ κατακαλύπτω katakalýptō, kat-ak-al-oop'-to; from G2596 and G2572 ; to cover wholly, i.e. veil:—cover, hide. 
+
+ KJV Translation Count — Total: 3x
+
+ The KJV translates Strong's G2619 in the following manner: cover  (3x).
+
+ KJV Translation Count — Total: 3x
+
+ The KJV translates Strong's G2619 in the following manner: cover  (3x).
+
+ Outline of Biblical Usage [?] 
+
+ to cover up
+ to veil or cover one's self
+
+ Strong’s Definitions [?] (Strong’s Definitions Legend) 
+
+ κατακαλύπτω katakalýptō, kat-ak-al-oop'-to; from G2596 and G2572 ; to cover wholly, i.e. veil:—cover, hide. 
+
+ Thayer's Greek Lexicon
+ [?] 
+ (Jump to Scripture Index) 
+
+ STRONGS G2619: 
+
+ κατακαλύπτω : the Sept. for כִּסָּה ; from Homer down; to cover up (see κατά , III. 3); middle present κατακαλύπτομαι , to veil or cover oneself : 1 Corinthians 11:6 ; τήν κεφαλήν , one's head, 1 Corinthians 11:7 . 
+
+ THAYER’S GREEK LEXICON, Electronic Database.
+
+ Copyright © 2002, 2003, 2006, 2011 by Biblesoft, Inc.
+
+ All rights reserved. Used by permission. 
+
+ BLB Scripture Index of Thayer's
+
+ 1 Corinthians 
+
+ 11:6 ; 11:7 
+
+ Word / Phrase / Strong's Search
+
+ Next Strong's G2620 ›› 
+
+ ‹‹ Previous Strong's G2618 
+
+ KJV 
+
+ NKJV 
+
+ NLT 
+
+ NIV 
+
+ ESV 
+
+ CSB 
+
+ NASB20 
+
+ NASB95 
+
+ LSB 
+
+ AMP 
+
+ NET 
+
+ RSV 
+
+ ASV 
+
+ YLT 
+
+ DBY 
+
+ WEB 
+
+ HNV 
+
+ VUL 
+
+ NAV 
+
+ WLC 
+
+ LXX 
+
+ mGNT 
+
+ TR 
+
+ SVD 
+
+ BES 
+
+ RVR09 
+
+ RVR60 
+
+ BBE 
+
+ CHT 
+
+ EM 
+
+ KOR 
+
+ LS 
+
+ LUT 
+
+ RST 
+
+ SE 
+
+ Concordance Results Shown Using the LXX
+
+ Concordance Results 
+
+ Strong's Number G2619 matches the Greek κατακαλύπτω ( katakalyptō ),
+
+ which occurs 23 times in 22 verses
+ in the LXX Greek .
+
+ View NT results in the TR Greek concordance 
+
+ View NT results in the MGNT Greek concordance 
+
+ Tools 
+
+ Gen 38:15 
+
+ Gen 38:15 - καὶ   G2532 ἰδὼν   G3708 αὐτὴν   G846 Ιουδας   G2455 ἔδοξεν   G1380 αὐτὴν   G846 πόρνην   G4204 εἶναι   G1510 κατεκαλύψατο   G2619 γὰρ   G1063 τὸ   G3588 πρόσωπον   G4383 αὐτῆς   G846 καὶ   G2532 οὐκ   G3756 ἐπέγνω   G1921 αὐτήν   G846 
+
+ Tools 
+
+ Exo 26:34 
+
+ Exo 26:34 - καὶ   G2532 κατακαλύψεις   G2619 τῷ   G3588 καταπετάσματι   G2665 τὴν   G3588 κιβωτὸν   G2787 τοῦ   G3588 μαρτυρίου   G3142 ἐν   G1722 τῷ   G3588 ἁγίῳ   G40 τῶν   G3588 ἁγίων   G40 
+
+ Tools 
+
+ Exo 29:22 
+
+ Exo 29:22 - καὶ   G2532 λήμψῃ   G2983 ἀπὸ   G575 τοῦ   G3588 κριοῦ τὸ   G3588 στέαρ αὐτοῦ   G846 καὶ   G2532 τὸ   G3588 στέαρ τὸ   G3588 κατακαλύπτον   G2619 τὴν   G3588 κοιλίαν   G2836 καὶ   G2532 τὸν   G3588 λοβὸν τοῦ   G3588 ἥπατος καὶ   G2532 τοὺς   G3588 δύο   G1417 νεφροὺς   G3510 καὶ   G2532 τὸ   G3588 στέαρ τὸ   G3588 ἐπ   G1909 ᾽ αὐτῶν   G846 καὶ   G2532 τὸν   G3588 βραχίονα   G1023 τὸν   G3588 δεξιόν   G1188 ἔστιν   G1510 γὰρ   G1063 τελείωσις   G5050 αὕτη   G3778 
+
+ Tools 
+
+ Lev 3:3 
+
+ Lev 3:3 - καὶ   G2532 προσάξουσιν   G4317 ἀπὸ   G575 τῆς   G3588 θυσίας   G2378 τοῦ   G3588 σωτηρίου   G4992 κάρπωμα κυρίῳ   G2962 τὸ   G3588 στέαρ τὸ   G3588 κατακαλύπτον   G2619 τὴν   G3588 κοιλίαν   G2836 καὶ   G2532 πᾶν   G3956 τὸ   G3588 στέαρ τὸ   G3588 ἐπὶ   G1909 τῆς   G3588 κοιλίας   G2836 
+
+ Tools 
+
+ Lev 3:14 
+
+ Lev 3:14 - καὶ   G2532 ἀνοίσει   G399 ἐπ   G1909 ᾽ αὐτοῦ   G846 κάρπωμα κυρίῳ   G2962 τὸ   G3588 στέαρ τὸ   G3588 κατακαλύπτον   G2619 τὴν   G3588 κοιλίαν   G2836 καὶ   G2532 πᾶν   G3956 τὸ   G3588 στέαρ τὸ   G3588 ἐπὶ   G1909 τῆς   G3588 κοιλίας   G2836 
+
+ Tools 
+
+ Lev 4:8 
+
+ Lev 4:8 - καὶ   G2532 πᾶν   G3956 τὸ   G3588 στέαρ τοῦ   G3588 μόσχου   G3448 τοῦ   G3588 τῆς   G3588 ἁμαρτίας   G266 περιελεῖ   G4014 ἀπ   G575 ᾽ αὐτοῦ   G846 τὸ   G3588 στέαρ τὸ   G3588 κατακαλύπτον   G2619 τὰ   G3588 ἐνδόσθια καὶ   G2532 πᾶν   G3956 τὸ   G3588 στέαρ τὸ   G3588 ἐπὶ   G1909 τῶν   G3588 ἐνδοσθίων 
+
+ Tools 
+
+ Lev 7:3 
+
+ Lev 7:3 - καὶ   G2532 πᾶν   G3956 τὸ   G3588 στέαρ αὐτοῦ   G846 προσοίσει   G4374 ἀπ   G575 ᾽ αὐτοῦ   G846 καὶ   G2532 τὴν   G3588 ὀσφὺν   G3751 καὶ   G2532 πᾶν   G3956 τὸ   G3588 στέαρ τὸ   G3588 κατακαλύπτον   G2619 τὰ   G3588 ἐνδόσθια καὶ   G2532 πᾶν   G3956 τὸ   G3588 στέαρ τὸ   G3588 ἐπὶ   G1909 τῶν   G3588 ἐνδοσθίων 
+
+ Tools 
+
+ Lev 9:19 
+
+ Lev 9:19 - καὶ   G2532 τὸ   G3588 στέαρ τὸ   G3588 ἀπὸ   G575 τοῦ   G3588 μόσχου   G3448 καὶ   G2532 τοῦ   G3588 κριοῦ τὴν   G3588 ὀσφὴν   G3751 καὶ   G2532 τὸ   G3588 στέαρ τὸ   G3588 κατακαλύπτον   G2619 ἐπὶ   G1909 τῆς   G3588 κοιλίας   G2836 καὶ   G2532 τοὺς   G3588 δύο   G1417 νεφροὺς   G3510 καὶ   G2532 τὸ   G3588 στέαρ τὸ   G3588 ἐπ   G1909 ᾽ αὐτῶν   G846 καὶ   G2532 τὸν   G3588 λοβὸν τὸν   G3588 ἐπὶ   G1909 τοῦ   G3588 ἥπατος 
+
+ Tools 
+
+ Num 4:5 
+
+ Num 4:5 - καὶ   G2532 εἰσελεύσεται   G1525 Ααρων   G2 καὶ   G2532 οἱ   G3588 υἱοὶ   G5207 αὐτοῦ   G846 ὅταν   G3752 ἐξαίρῃ   G1808 ἡ   G3588 παρεμβολή   G3925 καὶ   G2532 καθελοῦσιν   G2507 τὸ   G3588 καταπέτασμα   G2665 τὸ   G3588 συσκιάζον καὶ   G2532 κατακαλύψουσιν   G2619 ἐν   G1722 αὐτῷ   G846 τὴν   G3588 κιβωτὸν   G2787 τοῦ   G3588 μαρτυρίου   G3142 
+
+ Tools 
+
+ Num 22:5 
+
+ Num 22:5 - καὶ   G2532 ἀπέστειλεν   G649 πρέσβεις πρὸς   G4314 Βαλααμ   G903 υἱὸν   G5207 Βεωρ Φαθουρα ὅ   G3739 ἐστιν   G1510 ἐπὶ   G1909 τοῦ   G3588 ποταμοῦ   G4215 γῆς   G1093 υἱῶν   G5207 λαοῦ   G2992 αὐτοῦ   G846 καλέσαι   G2564 αὐτὸν   G846 λέγων   G3004 ἰδοὺ   G2400 λαὸς   G2992 ἐξελήλυθεν   G1831 ἐξ   G1537 Αἰγύπτου   G125 καὶ   G2532 ἰδοὺ   G2400 κατεκάλυψεν   G2619 τὴν   G3588 ὄψιν   G3799 τῆς   G3588 γῆς   G1093 καὶ   G2532 οὗτος   G3778 ἐγκάθηται ἐχόμενός   G2192 μου   G1473 
+
+ Tools 
+
+ 2Ch 18:29 
+
+ 2Ch 18:29 - καὶ   G2532 εἶπεν   G2036 βασιλεὺς   G935 Ισραηλ   G2474 πρὸς   G4314 Ιωσαφατ   G2498 κατακαλύψομαι   G2619 καὶ   G2532 εἰσελεύσομαι   G1525 εἰς   G1519 τὸν   G3588 πόλεμον   G4171 καὶ   G2532 σὺ   G4771 ἔνδυσαι   G1746 τὸν   G3588 ἱματισμόν   G2441 μου   G1473 καὶ   G2532 συνεκαλύψατο   G4780 βασιλεὺς   G935 Ισραηλ   G2474 καὶ   G2532 εἰσῆλθεν   G1525 εἰς   G1519 τὸν   G3588 πόλεμον   G4171 
+
+ Tools 
+
+ Isa 6:2 
+
+ Isa 6:2 - καὶ   G2532 σεραφιν εἱστήκεισαν   G2476 κύκλῳ   G2945 αὐτοῦ   G846 ἓξ   G1803 πτέρυγες   G4420 τῷ   G3588 ἑνὶ   G1520 καὶ   G2532 ἓξ   G1803 πτέρυγες   G4420 τῷ   G3588 ἑνί   G1520 καὶ   G2532 ταῖς   G3588 μὲν   G3303 δυσὶν   G1417 κατεκάλυπτον   G2619 τὸ   G3588 πρόσωπον   G4383 καὶ   G2532 ταῖς   G3588 δυσὶν   G1417 κατεκάλυπτον   G2619 τοὺς   G3588 πόδας   G4228 καὶ   G2532 ταῖς   G3588 δυσὶν   G1417 ἐπέταντο   G4072 
+
+ Tools 
+
+ Isa 11:9 
+
+ Isa 11:9 - καὶ   G2532 οὐ   G3756 μὴ   G3361 κακοποιήσωσιν   G2554 οὐδὲ   G3761 μὴ   G3361 δύνωνται   G1410 ἀπολέσαι   G622 οὐδένα   G3762 ἐπὶ   G1909 τὸ   G3588 ὄρος   G3735 τὸ   G3588 ἅγιόν   G40 μου   G1473 ὅτι   G3754 ἐνεπλήσθη   G1705 ἡ   G3588 σύμπασα τοῦ   G3588 γνῶναι   G1097 τὸν   G3588 κύριον   G2962 ὡς   G5613 ὕδωρ   G5204 πολὺ   G4183 κατακαλύψαι   G2619 θαλάσσας   G2281 
+
+ Tools 
+
+ Isa 26:21 
+
+ Isa 26:21 - ἰδοὺ   G2400 γὰρ   G1063 κύριος   G2962 ἀπὸ   G575 τοῦ   G3588 ἁγίου   G40 ἐπάγει   G1863 τὴν   G3588 ὀργὴν   G3709 ἐπὶ   G1909 τοὺς   G3588 ἐνοικοῦντας   G1774 ἐπὶ   G1909 τῆς   G3588 γῆς   G1093 καὶ   G2532 ἀνακαλύψει   G343 ἡ   G3588 γῆ   G1093 τὸ   G3588 αἷμα   G129 αὐτῆς   G846 καὶ   G2532 οὐ   G3756 κατακαλύψει   G2619 τοὺς   G3588 ἀνῃρημένους   G337 
+
+ Tools 
+
+ Jer 46:8 
+
+ Jer 46:8 - ( lxx 26:8 ) ὕδατα   G5204 Αἰγύπτου   G125 ὡσεὶ   G5616 ποταμὸς   G4215 ἀναβήσεται   G305 καὶ   G2532 εἶπεν   G2036 ἀναβήσομαι   G305 καὶ   G2532 κατακαλύψω   G2619 γῆν   G1093 καὶ   G2532 ἀπολῶ   G622 κατοικοῦντας   G2730 ἐν   G1722 αὐτῇ   G846 
+
+ Tools 
+
+ Jer 51:42 
+
+ Jer 51:42 - ( lxx 28:42 ) ἀνέβη   G305 ἐπὶ   G1909 Βαβυλῶνα   G897 ἡ   G3588 θάλασσα   G2281 ἐν   G1722 ἤχῳ   G2279 κυμάτων   G2949 αὐτῆς   G846 καὶ   G2532 κατεκαλύφθη   G2619 
+
+ Tools 
+
+ Jer 51:51 
+
+ Jer 51:51 - ( lxx 28:51 ) ᾐσχύνθημεν   G153 ὅτι   G3754 ἠκούσαμεν   G191 ὀνειδισμὸν   G3680 ἡμῶν   G1473 κατεκάλυψεν   G2619 ἀτιμία   G819 τὸ   G3588 πρόσωπον   G4383 ἡμῶν   G1473 εἰσῆλθον   G1525 ἀλλογενεῖς   G241 εἰς   G1519 τὰ   G3588 ἅγια   G40 ἡμῶν   G1473 εἰς   G1519 οἶκον   G3624 κυρίου   G2962 
+
+ Tools 
+
+ Eze 26:10 
+
+ Eze 26:10 - ἀπὸ   G575 τοῦ   G3588 πλήθους   G4128 τῶν   G3588 ἵππων   G2462 αὐτοῦ   G846 κατακαλύψει   G2619 σε   G4771 ὁ   G3588 κονιορτὸς   G2868 αὐτῶν   G846 καὶ   G2532 ἀπὸ   G575 τῆς   G3588 φωνῆς   G5456 τῶν   G3588 ἱππέων   G2460 αὐτοῦ   G846 καὶ   G2532 τῶν   G3588 τροχῶν   G5164 τῶν   G3588 ἁρμάτων   G716 αὐτοῦ   G846 σεισθήσεται   G4579 τὰ   G3588 τείχη   G5038 σου   G4771 εἰσπορευομένου   G1531 αὐτοῦ   G846 τὰς   G3588 πύλας   G4439 σου   G4771 ὡς   G5613 εἰσπορευόμενος   G1531 εἰς   G1519 πόλιν   G4172 ἐκ   G1537 πεδίου 
+
+ Tools 
+
+ Eze 26:19 
+
+ Eze 26:19 - ὅτι   G3754 τάδε   G3592 λέγει   G3004 κύριος   G2962 κύριος   G2962 ὅταν   G3752 δῶ   G1325 σε   G4771 πόλιν   G4172 ἠρημωμένην   G2049 ὡς   G5613 τὰς   G3588 πόλεις   G4172 τὰς   G3588 μὴ   G3361 κατοικηθησομένας   G2730 ἐν   G1722 τῷ   G3588 ἀναγαγεῖν   G321 με   G1473 ἐπὶ   G1909 σὲ   G4771 τὴν   G3588 ἄβυσσον   G12 καὶ   G2532 κατακαλύψῃ   G2619 σε   G4771 ὕδωρ   G5204 πολύ   G4183 
+
+ Tools 
+
+ Eze 32:7 
+
+ Eze 32:7 - καὶ   G2532 κατακαλύψω   G2619 ἐν   G1722 τῷ   G3588 σβεσθῆναί   G4570 σε   G4771 οὐρανὸν   G3772 καὶ   G2532 συσκοτάσω τὰ   G3588 ἄστρα   G798 αὐτοῦ   G846 ἥλιον   G2246 ἐν   G1722 νεφέλῃ   G3507 καλύψω   G2572 καὶ   G2532 σελήνη   G4582 οὐ   G3756 μὴ   G3361 φάνῃ   G5316 τὸ   G3588 φῶς   G5457 αὐτῆς   G846 
+
+ Tools 
+
+ Eze 38:9 
+
+ Eze 38:9 - καὶ   G2532 ἀναβήσῃ   G305 ὡς   G5613 ὑετὸς   G5205 καὶ   G2532 ἥξεις   G2240 ὡς   G5613 νεφέλη   G3507 κατακαλύψαι   G2619 γῆν   G1093 καὶ   G2532 ἔσῃ   G1510 σὺ   G4771 καὶ   G2532 πάντες   G3956 οἱ   G3588 περὶ   G4012 σὲ   G4771 καὶ   G2532 ἔθνη   G1484 πολλὰ   G4183 μετὰ   G3326 σοῦ   G4771 
+
+ Tools 
+
+ Hab 2:14 
+
+ Hab 2:14 - ὅτι   G3754 πλησθήσεται   G4130 ἡ   G3588 γῆ   G1093 τοῦ   G3588 γνῶναι   G1097 τὴν   G3588 δόξαν   G1391 κυρίου   G2962 ὡς   G5613 ὕδωρ   G5204 κατακαλύψει   G2619 αὐτούς   G846 
+
+ KJV
+
+ Sponsors
+
+ Partner with the BLB     (Disclaimer) 
+
+ Search Results in Other Versions
+
+ (Notes) 
+
+ Search Results by Book
+
+ (Notes) 
+
+ BLB Searches
+
+ Search the Bible
+
+ LXX 
+
+  [?] 
+
+ Advanced Options 
+
+ There are options set in 'Advanced Options'
+
+ Clear Advanced Options 
+
+ Search a pre-defined list
+
+ The Whole Bible 
+ The Old Testament 
+ The New Testament 
+ ────────────── 
+ Pentateuch 
+ Historical Books 
+ Poetical Books 
+ Wisdom Literature 
+ Prophets 
+ Major Prophets 
+ Minor Prophets 
+ ────────────── 
+ The Gospels 
+ Luke-Acts 
+ Pauline Epistles 
+ General Epistles 
+ Johannine Writings 
+ ────────────── 
+ Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth 1 Samuel 2 Samuel 1 Kings 2 Kings 1 Chronicles 2 Chronicles Ezra Nehemiah Esther Job Psalms Proverbs Ecclesiastes Song of Songs Isaiah Jeremiah Lamentations Ezekiel Daniel Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah Malachi Matthew Mark Luke John Acts Romans 1 Corinthians 2 Corinthians Galatians Ephesians Philippians Colossians 1 Thessalonians 2 Thessalonians 1 Timothy 2 Timothy Titus Philemon Hebrews James 1 Peter 2 Peter 1 John 2 John 3 John Jude Revelation 
+
+ OR Select a range of biblical books
+
+ From: 
+
+ Select a Beginning Point 
+ Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth 1 Samuel 2 Samuel 1 Kings 2 Kings 1 Chronicles 2 Chronicles Ezra Nehemiah Esther Job Psalms Proverbs Ecclesiastes Song of Songs Isaiah Jeremiah Lamentations Ezekiel Daniel Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah Malachi Matthew Mark Luke John Acts Romans 1 Corinthians 2 Corinthians Galatians Ephesians Philippians Colossians 1 Thessalonians 2 Thessalonians 1 Timothy 2 Timothy Titus Philemon Hebrews James 1 Peter 2 Peter 1 John 2 John 3 John Jude Revelation 
+
+ To: 
+
+ Select an Ending Point 
+ Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth 1 Samuel 2 Samuel 1 Kings 2 Kings 1 Chronicles 2 Chronicles Ezra Nehemiah Esther Job Psalms Proverbs Ecclesiastes Song of Songs Isaiah Jeremiah Lamentations Ezekiel Daniel Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah Malachi Matthew Mark Luke John Acts Romans 1 Corinthians 2 Corinthians Galatians Ephesians Philippians Colossians 1 Thessalonians 2 Thessalonians 1 Timothy 2 Timothy Titus Philemon Hebrews James 1 Peter 2 Peter 1 John 2 John 3 John Jude Revelation 
+
+ OR Custom Selection:
+
+ Use semicolons to separate groups: 'Gen;Jdg;Psa-Mal' or 'Rom 3-12;Mat 1:15;Mat 5:12-22'
+
+ LexiConc
+
+  [?] 
+
+ Advanced Options 
+
+ Exact Match
+
+ Beginning of the Word
+
+ Any Part of the Word
+
+ Theological FAQs
+
+  [?] 
+
+ Other Searches 
+
+ Partner with the BLB     (Disclaimer) 
+
+ Multi-Verse Retrieval
+
+ LXX 
+
+ Retrieve Adv. Options 
+
+ Line-By-Line Order:
+
+ Verse-Reference
+
+ Reference-Verse
+
+ Separate Line
+
+ Verse Only
+
+ Reference Only
+
+ Reference Delimiters:
+
+ None — Jhn 1:1 KJV
+
+ Square — [Jhn 1:1 KJV]
+
+ Curly — {Jhn 1:1 KJV}
+
+ Parens — (Jhn 1:1 KJV)
+
+ Paragraph Order:
+
+ Verse-Reference
+
+ Reference-Verse
+
+ Reference-Only
+
+ Number Delimiters: * 
+
+ No Number
+
+ No Delimiter — 15
+
+ Square — [15]
+
+ Curly — {15}
+
+ Parens — (15)
+
+ Other Options:
+
+ Abbreviate Books
+
+ Use SBL Abbrev.
+
+ En dash not Hyphen
+
+ Quotes Around Verses
+
+ Remove Square Brackets
+
+ Sort Canonically
+
+ * 'Number Delimiters' only apply to 'Paragraph Order'
+
+ Let's Connect
+
+ Daily Devotionals
+
+ Blue Letter Bible offers several daily devotional readings in order to help you refocus on Christ and the Gospel of His peace and righteousness.
+
+ BLB Daily Promises 
+
+ Day by Day by Grace 
+
+ Morning and Evening 
+
+ Faith's Checkbook 
+
+ Daily Bible Reading 
+
+ Daily Bible Reading Plans
+
+ Recognizing the value of consistent reflection upon the Word of God in order to refocus one's mind and heart upon Christ and His Gospel of peace, we provide several reading plans designed to cover the entire Bible in a year.
+
+ One-Year Plans
+
+ Canonical 
+
+ Blended 
+
+ Chronological 
+
+ Historical 
+
+ Old Testament and New Testament Together 
+
+ Two-Year Plan
+
+ Canonical Five Day Plan 
+
+ Old Testament and New Testament Together 
+
+ Recently Popular Pages
+
+ C. H. Spurgeon's Faith's Checkbook for (November 6th) 
+
+ Account Help Tutorial 
+
+ ESV Introductions - Study Resources 
+
+ Harmony of the Gospels - Study Resources - Study Resources 
+
+ H3605 - kōl - Strong's Hebrew Lexicon (NKJV) 
+
+ Dr. J. Vernon McGee :: Notes for John 
+
+ Special Bible Readings from Thompson's Chain Reference - Study Resources 
+
+ G1515 - eirēnē - Strong's Greek Lexicon (KJV) 
+
+ H5439 - sāḇîḇ - Strong's Hebrew Lexicon (NKJV) 
+
+ David Guzik :: Study Guide for Exodus 29 
+
+ Recently Popular Media
+
+ Hope in the Midst of Judgment (David Guzik)
+
+ Mark 4-5 (1982-85 Audio) (Chuck Smith)
+
+ Revelation 19 [1990s] (Chuck Missler)
+
+ Romans 1:18-1:32 (Joe Focht)
+
+ 1 John 4:5-6 (Dr. J. Vernon McGee)
+
+ Beware of Deceivers Teaching False Doctrines (Nancy DeMoss Wolgemuth)
+
+ David's Kingdom (Chuck Missler)
+
+ How to Fix Relationship with God (David Guzik)
+
+ James 3-5 (1982-85 Audio) (Chuck Smith)
+
+ Philippians 4:1-5 - Graciousness (Lloyd Pulley)
+
+ Partner with the BLB     (Disclaimer) 
+
+ View Desktop Site
+
+ Settings
+
+ Copy Translation Order 
+  [?] 
+
+ Copy to Bibles Tab 
+ Copy from Bibles Tab 
+ Reset Translation Order 
+
+ Translation Selection order copied to Bibles Tab order
+
+ Bibles Tab order copied to Translation Selection order
+
+ Translation Selection order and Bibles Tab order have been reset
+
+ You can copy the order of your preferred Bible translations from the Bibles Tab to the Version Picker (this popup) or vice versa. The Bibles Tab is found in the Tools feature on Bible pages:
+
+ Close 
+
+ KJV 
+
+ King James Version 
+
+ NKJV 
+
+ New King James Version 
+
+ NLT 
+
+ New Living Translation 
+
+ NIV 
+
+ New International Version 
+
+ ESV 
+
+ English Standard Version 
+
+ CSB 
+
+ Christian Standard Bible 
+
+ NASB20 
+
+ New American Standard Bible 2020 
+
+ NASB95 
+
+ New American Standard Bible 1995 
+
+ LSB 
+
+ Legacy Standard Bible 
+
+ AMP 
+
+ Amplified Bible 
+
+ NET 
+
+ New English Translation 
+
+ RSV 
+
+ Revised Standard Version 
+
+ ASV 
+
+ American Standard Version 
+
+ YLT 
+
+ Young's Literal Translation 
+
+ DBY 
+
+ Darby Translation 
+
+ WEB 
+
+ Webster's Bible 
+
+ HNV 
+
+ Hebrew Names Version 
+
+ VUL 
+
+ Latin Vulgate 
+
+ NAV 
+
+ Open New Arabic Version 
+
+ WLC 
+
+ Westminster Leningrad Codex 
+
+ LXX 
+
+ Septuagint 
+
+ mGNT 
+
+ Morphological Greek New Testament 
+
+ TR 
+
+ Textus Receptus 
+
+ SVD 
+
+ Smith Van Dyck Arabic Bible 
+
+ BES 
+
+ Brenton's English Septuagint 
+
+ RVR09 
+
+ Reina Valera 1909 
+
+ RVR60 
+
+ Reina-Valera 1960 
+
+ BBE 
+
+ Bible in Basic English 
+
+ CHT 
+
+ Chinese Traditional Union 
+
+ EM 
+
+ Espanol Moderno 
+
+ KOR 
+
+ Korean Holy Bible 
+
+ LS 
+
+ Louis Segond 
+
+ LUT 
+
+ German Luther 
+
+ RST 
+
+ Russian Synodal Translation 
+
+ SE 
+
+ Sagradas Escrituras 
+
+ Set Primary & Parallel Translation Preferences
+
+ Cite This Page
+
+ MLA Format
+
+ Note: MLA no longer requires the URL as part of their citation standard. Individual instructors or editors may still require the use of URLs.
+
+ APA Format
+
+ Chicago Format
+
+ SBL Format
+
+ Share This Page
+
+ Email This Page
+
+ You must be logged in to send email.
+
+ Follow Blue Letter Bible
+
+ Loading...
+
+ Loading 
+
+ Loading
+
+ Loading 
+
+ Loading
+
+ Interlinear 
+
+ Bibles 
+
+ Cross-Refs 
+
+ Commentaries 
+
+ Dictionaries 
+
+ Miscellaneous 
+
+ Blue Letter Bible
+
+ Loading…
+
+ Cover
+
+ Title
+
+ Intro
+
+ 1
+
+ 2
+
+ 3
+
+ 4
+
+ 5
+
+ 6
+
+ 7
+
+ 8
+
+ 9
+
+ 10
+
+ 11
+
+ 12
+
+ 13
+
+ 14
+
+ 15
+
+ 16
+
+ 17
+
+ 18
+
+ 19
+
+ 20
+
+ 21
+
+ 22
+
+ 23
+
+ 24
+
+ 25
+
+ 26
+
+ 27
+
+ 28
+
+ 29
+
+ 30
+
+ 31
+
+ Login To Your Account
+
+ Email / username or password was incorrect!
+
+ Check your email for password retrieval
+
+ Enter Your Email or Username 
+
+ Password 
+
+  Keep me logged in! 
+
+ Login 
+  [?] 
+
+ Did you forget your password? 
+
+ Sign up for a new BLB account 
+
+ Complete the form below to sign up  [?] 
+
+ Error: That Email is already registered
+
+ Error: Please provide a valid Email
+
+ Error: Passwords should have at least 6 characters
+
+ Error: Passwords do not match
+
+ Error: Please provide a valid first name
+
+ Error: That username is already taken
+
+ Error: Usernames should only contain letters, numbers, dots, dashes, or underscores
+
+ Enter Your Email 
+
+ First Name 
+
+ Password Must be at least 6 characters 
+
+ Re-type Password 
+
+ Sign up 
+
+ ← Login to Your Account 
+
+ Passwords should have at least 6 characters.
+
+ Usernames should only contain letters, numbers, dots, dashes, or underscores.
+
+ Thank you for registering. A verification email has been sent to the address you provided.
+
+ Please enter your account email below 
+
+ Continue 
+ Cancel 
+
+ Did You Know BLB Is User Supported?
+
+ Your partnership makes all we do possible. Would you prayerfully consider a gift of support today?
+
+ Donate 
+
+ Remind Me 
+
+ Dismiss 
+
+ Cookie Notice: 
+ Our website uses cookies to store user preferences. By proceeding, you consent to our cookie usage.
+ Please see Blue Letter Bible's Privacy Policy for cookie usage details.
+
+ OK
+
+ Old Testament
+
+ New Testament
+
+ Back 
+ Psalms
+
+ 1 
+
+ Hebrew
+
+ Verb
+
+ Search
+
+ Bible Search 
+
+ Multiverse Retrieval 
+
+ LexiConc Search 
+
+ Theological FAQ Search 
+
+ Browse Dictionary Topics 
+
+ Bible Commentaries
+
+ Text Commentaries 
+
+ Audio & Video Commentaries 
+
+ Bible Reference
+
+ Harmony of the Gospels 
+
+ Encyclopedias / Dictionaries 
+
+ Bible Study Notes 
+
+ Prefaces 
+
+ Introductions to the Bible 
+
+ Charts and Outlines 
+
+ Timelines 
+
+ Maps / Images 
+
+ Topical Indexes 
+
+ Biblical Language Resources
+
+ Inline Interlinear 
+
+ Language Tools 
+
+ Lexical Resources 
+
+ Grammars 
+
+ Concordances 
+
+ Morphology 
+
+ Theological Resources
+
+ Articles / Books 
+
+ Women's Resources 
+
+ Don Stewart FAQs 
+
+ BLB Theological FAQs 
+
+ Missions Resources 
+
+ Cult Evangelism Resources 
+
+ Creeds, Catechisms, and Confessions 
+
+ Topical Indexes
+
+ Hitchcock's Topical Analysis 
+
+ Thompson's Chain Reference 
+
+ The Names of God 
+
+ Our God Is…We Are… 
+
+ Put Off…Put On… 
+
+ Multimedia
+
+ Media 
+
+ Music 
+
+ Help & Support
+
+ Video Tutorials 
+
+ Help Tutorials 
+
+ Apple iOS App Support 
+
+ Android App Support 
+
+ BLB Institute Support 
+
+ Donor Support 
+
+ Website Questions 
+
+ General Questions 
+
+ Theological Questions 
+ Products
+
+ Apple iOS App 
+
+ Android App 
+
+ ScriptureMark 
+
+ BLB ScriptTagger 
+
+ BLB Web Search Tool 
+
+ BLB CD 
+
+ Digital Books 
+
+ Digital Videos 
+
+ Devotionals
+
+ Email Devotional Sign-Up 
+ BLB Daily Promises 
+ Day by Day by Grace 
+ Morning and Evening 
+ Daily Bible Reading Plan 
+ Ministries
+
+ BLB Institute (Free) 
+
+ BLB Blog 
+
+ Sowing Circle 
+ Co-Laboring Ministries 
+ About
+
+ About BLB 
+
+ Statement of Faith 
+
+ History of BLB 
+
+ Ministry FAQs 
+
+ LiveMap 
+
+ Newsletter 
+
+ Ad Partnerships 
+
+ Permissions 
+
+ Share Your BLB Story 
+ Contact 
+
+ Donate
+
+ Credit Card/ACH 
+
+ PayPal 
+
+ Venmo 
+
+ Mail-In 
+
+ Planned Giving 
+
+ Gifts of Stock 
+
+ All Gift Options 
+
+ Donor Portal Login 
+
+ Our Funding Model 
+
+ Support & FAQs 
+
+ Donate 
+ Contact 
+
+ BLB Institute 
+ BLB Blog 
+ Newsletters 
+
+ Donate 
+ Contact 
+
+ Blue Letter Bible study tools make reading, searching and studying the Bible easy and rewarding.
+
+ Blue Letter Bible is a 501(c)(3) nonprofit organization 
+
+ ©2026 Blue Letter Bible | Privacy Policy

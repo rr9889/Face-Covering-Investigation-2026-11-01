@@ -1,5 +1,7 @@
 # 07 — Claim verdicts
 
+> **[Audit 2026-11-07] Superseded.** These are the first-pass verdicts. The working verdicts are now in `12-revised-method-and-assessment.md` §5–6, and the reasons for each change are in `11-independent-audit.md`. Notes below mark the specific claims that changed.
+
 Ten discrete claims, each with the strongest evidence for and against, a verdict, and a confidence level.
 
 The confidence scale:
@@ -73,6 +75,8 @@ The confidence scale:
 
 **Against:** Chrysostom, the greatest Greek commentator, says head only; Cyprian, in Tertullian's own city a generation later, does not mention veils; the visual corpus shows no face-covering style; the practice is regionally clustered (Alexandria, Syria, later Rome/Milan ascetics).
 
+> **[Audit 2026-11-07]** Chrysostom does not say "head only"; he is silent on the face (A4). The verdict stands on the other grounds (regional clustering, Tertullian, Hermas).
+
 **Verdict: False. Confidence: high.**
 
 ---
@@ -95,17 +99,23 @@ The confidence scale:
 
 **Against:** the sources themselves distinguish them: Tertullian contrasts Christian head-covering with Arab head-**and**-face covering; the Didascalia speaks of covering the head with the robe and separately of concealing the face; BDAG distinguishes `κάλυμμα` (either) from `περίβολαιον` (body-wrap); Héring distinguishes the long face-veil from the short head-veil in the iconography.
 
+> **[Audit 2026-11-07]** BDAG's own Ps.-Dicaearchus citation calls a face-concealing garment `τὸ … ἐπὶ τῆς κεφαλῆς κάλυμμα`, "the covering on the head". Ancient usage did not separate head- and face-covering sharply. Revised: **misframed** (A6).
+
 **Verdict: False. Confidence: high.**
 
 ---
 
-## Claim 9 — The face-veil reading of 1 Cor 11 arose c. 190–220 CE
+## Claim 9
+
+ — The face-veil reading of 1 Cor 11 arose c. 190–220 CE
 
 **For:** the `κάλυμμα` variant appears in Irenaeus (Latin) and "Hippolytus"; Clement is the first to require the face; Nõmmik's reconstruction ties the two together.
 
 **Against:** the reconstruction depends heavily on one scholar (Nõmmik); the variant's origin is unclear (he himself leaves it open, p. 302 n.22); it is possible that face-covering practice preceded the textual variant and caused it, rather than the reverse.
 
 **Verdict: Well-supported, with the direction of causation uncertain. Confidence: high (for the date); contested (for the causal direction).**
+
+> **[Audit 2026-11-07]** Revised: *first attested* c. 195 (high); *arose* then (low). The 2nd-century record is too thin to date an origin (A10).
 
 ---
 
@@ -114,6 +124,8 @@ The confidence scale:
 **For:** no lexicon defines `κατακαλύπτω` as a face-veil; Paul's object is the head.
 
 **Against:** BDAG's Theban parallel shows the verb can describe a full-face covering; the word is generic.
+
+> **[Audit 2026-11-07]** Stronger than stated: in the LXX the verb's human or angelic body-part objects are face ×3 (Gen 38:15, Isa 6:2, Jer 28:51) and feet ×1, never the head (A3). Verdict *False* stands; confidence **high** (not "very high", which was not argued).
 
 **Verdict: False. Confidence: very high.**
 
@@ -149,6 +161,8 @@ It claims that face-covering is foreign to Christian practice. That is false. Cl
 ---
 
 ## The normative answer
+
+> **[Audit 2026-11-07]** Out of scope for a historical dossier: "ought" depends on theological premises the evidence cannot supply. Retained as the first pass's view, not as a finding.
 
 **"Ought face coverings to be included in the head covering?"**
 

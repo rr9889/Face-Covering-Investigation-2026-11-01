@@ -1,0 +1,78 @@
+SOURCE: BDAG 3rd ed. (2000), PDF in the corpus root ("Bauer, W., Danker, F. W., ... (2000) ... 3rd ed."), extracted with scripts/extract_pdfs_audit.py. Entries s.v. κάλυμμα (pp. 447-448) and κατακαλύπτω (p. 458). Not fetched from the web; included here for convenience.
+
+κάλυμμα, ατος, τό ⟦epikálumma⟧(s. next entry; ‘a covering’ Aristot.
+et al.; LXX) a stratagem for concealing someth., cover, veil ἐ. τῆς κακίας
+a covering for evil 1 Pt 2:16 (Menand., Fgm. 90 Kock πλοῦτος δὲπολλῶν
+ἐπικάλυμμ’ ἐστὶκακῶν=wealth is a cover-up for many evils; Iren. s.v. κακία
+1).—DELG s.v. καλύπτω.
+ἐπικαλύπτω ⟦epikalúptō⟧fut. ἐπικαλύψω; 1 aor. ἐπικάλυψα LXX. Pass.: 1 aor.
+ἐπεκαλύφθην; pf. ptc. ἐπικεκαλυμμένος 2 Km 5:30 (s. prec. entry; Hes. et al.;
+Just., D. 68, 6 and 130, 1 ἐπικεκαλυμμένως) ‘to hide from view by covering’,
+then by fig. extension as synonym for ‘forgive’ cover up ὧν ἐπεκαλύφθησαν αἱ
+ἁμαρτίαι whose sins are put out of sight Ro 4:7; 1 Cl 50:6 (both Ps 31:1).
+ἐπικαταλλάσσομαι ⟦epikatallássomai⟧2 aor. ἐπικατηλλάγην (hapax leg.)
+τινί be reconciled to someone 1 Cl 48:1.—DELG s.v. ἄλλος.
+ἐπικατάρατος, ον ⟦epikatáratos⟧(s. καταράομαι; ins fr. Euboea SIG 1240, 2
+[II a.d.] and Halicarnassus CIG 2664 [II/III a.d.];Vi. Aesopi G 3 P. ἐπικατάρατε;
+schol. on Soph., Ant. 867 p. 258 Papag. [1888]; LXX; Philo, Leg. All. 3, 111; 113;
+En 102:3; TestSol 20:6 P; ApcMos; Dssm., LO 74f [LAE 93f]) pert. to being
+under divine condemnation, cursed ἐ. πᾶς ὸ̔ ς … cursed be every one, who
+… Gal 3:10 (Dt 27:26; Just., D 89, 2; 96, 1), 13. (W. παραβάτης τοῦνόμου; opp.
+μακάριος) Lk 6:4 D. ἐ. ὁεἷς B 7:7; cp. 9. Of fish who are cursed and must live
+in the depths of the sea 10:5.—M-M.
+ἐπίκειμαι ⟦epíkeimai⟧impf. ἐπεκείμην (Hom.+). 1 to be at or in a place
+in contact with a surface, lie upon ἐπί τινι someth. (Paus. 5, 10, 2) of a
+stone J 11:38 (JSwetnam, CBQ 28, ’66, 155–73). ἐπί τινος on someth. (Cass.
+Dio 67, 16; Herm. Wr. 1, 13b) of the brass serpent B 12:7. τὰστόματα αὐτῶν
+ἐπικείμενα τῷὕδατι καὶμὴπίνοντα (I saw how) their (the goats’) mouths were
+at the water but not drinking GJs 18:3. Abs. ὀψάριον ἐπικείμενον fish lying on
+it J 21:9 (cp. PTebt 47, 25 [113 b.c.]; PGrenf II, 57, 9 τ. ἐπικειμένην σποράν; 2
+Macc 1:21).—In imagery be on of the image on a coin IMg 5:2. 2 to act
+upon through force or pressure a of personal force, act of pushing press
+around, press upon, be urgent w. dat. of pers. (X., An. 4, 3, 7; Arrian, An. 1,
+14, 5; Aesop, fab. 140 P.= 249 H.; Job 19:3; 21:27; Jos., Ant. 6, 334 al.) Lk 5:1. b
+of impersonal force confront χειμῶνος ἐπικειμένου since a storm lay upon us
+Ac 27:20 (cp. Plut., Timol. 250 [28, 7]; Wsd 17:20 v.l.). ἀνάγκη μοι ἐπίκειται
+neces
+
+----------
+
+κατακαλύπτω ⟦katakalúptō⟧fut. κατακαλύψω; 1 aor. κατεκάλυψα LXX.
+Pass.: aor. 3 sg. κατεκαλύφθη Jer 28:42; pf. ptc. κατακεκαλυμμένος (s. next
+entry, also καλύπτω; Hom. et al.; ins, LXX; JosAs 3:11; 14:17 A for καλύπτω;
+18:6 A for σκεπάζω) cover, veil a act. (Is 6:2) and pass. (Sus 32 Theod.) of a
+young woman κατακεκαλυμμένη ἕως τοῦμετώπου covered or veiled to the
+forehead Hv 4, 2, 1. But here the form could also be b mid. cover oneself w.
+a veil, abs. (s. Jos., Ant. 7, 254) 1 Cor 11:6ab. W. acc. (either of the obj. or of
+specification, as Gen 38:15) τὴν κεφαλήν vs. 7 (Ps.-Dicaearchus p. 144 ln. 16ff
+F. of the Theban women: τὸτῶν ἱματίων ἐπὶτῆς κεφαλῆς κάλυμμα τοιοῦτόν
+ἐστιν, ὥσπερ προσωπιδίῳδοκεῖν πᾶν τὸπρόσωπον κατειλῆφθαι. In case the text
+is in order, it may be transl. about as follows: the covering of the clothes
+on the head is of such a kind that the whole face seems to be covered as
+with a mask).—AJeremias, D. Schleier v. Sumer bis heute ’31; RdeVaux, RB
+44, ’35, 395–412.—M-M s.v. κατακαλύπτομαι. TW.
+κατακάλυψις, εως, ἡ⟦katakálupsis⟧(s. prec. entry; Περὶὕψους 17, 3; Galen
+XIII 99 K.; XIX 445; Proclus, In Pla., Tim. III p. 149, 17 Diehl) covering ἐν μίτρᾳ
+ἦν ἡκ. αὐτῆς her head was covered with a snood Hv 4, 2, 1.
+
+[[p.550]]
+A Greek-English Lexicon of the New Testament
+κατ
+κατάκαρπος
+κατάκριμα
+459
+κατάκαρπος, ον ⟦katákarpos⟧(s. καρπός; Aristodem. [II b.c.]: 383 Fgm. 9
+Jac. [in Athen. 11 p. 495f]; Leontios, Prooem. p. 2, 16 and 21 of vine and olive
+tree; LXX; TestSol 17:2 P) very fruitful δένδρα Hs 9, 1, 10.
+κατακαυχάομαι ⟦katakaucháomai⟧2 sg. κατακαυχᾶσαι; fut. 3 pl. κατακαυ-
+χήσονται Zech 10:12 (Jer 27:11, 38; grave ins of Asia Minor: SBBerlAk ’32, p.
+855 κατακαυχᾶσθαι κατά τινος of a gladiator over his defeated foe). 1 to
+boast at the expense of another, boast against, exult over τινός someone or
+someth. τῶν κλάδων the branches Ro 11:18a.—Abs. boast, brag Ro 11:18b; Js
+3:14; 4:16 v.l. (for καυχᾶσθε). 2 to have a cause for boasting because of
+advantage in power, triumph over τινός (Rhet. Gr. I 551, 13; 589, 23; Constan.
+Manasses 1, 59 Hercher; Psellus p. 183, 3 τῆς φύσεως κατεκαυχήσατο) κ. ἔλεος
+κρίσεως mercy triumphs over judgment Js 2:13.—DELG s.v. καυχάομαι. TW.
+κατάκειμαι ⟦katákeimai⟧impf. κατεκείμην; fut. 2 sg. κατακείσῃPr 23:34 (s.
+κεῖμαι; Hom. et al.; grave ins: Sb 6089, 1; pap, LXX, TestSol 11:2; TestReub 3:13;
+Joseph.; Mel., P. 80, 594) 1 to be 

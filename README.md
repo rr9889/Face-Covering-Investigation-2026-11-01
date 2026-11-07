@@ -5,13 +5,17 @@
 **Date of investigation:** 1 November 2026
 **Corpus:** `C:\Users\Admin\Documents\Early Christianity\Head Coverings` — 1,089 files (200 .txt, 112 .pdf, 83 .md, 105 .json, 582 .png, 3 .docx, plus misc; ≈720 MB as Windows reports it).
 **Investigator:** AI research agent (DeepSeek Harness), working from the local corpus plus external checks of primary texts.
-**Starting posture:** deliberately agnostic. No position was assumed; the verdicts below are where the evidence landed.
+**Starting posture:** deliberately agnostic. No position was assumed; the verdicts below are where the evidence landed. *(Audit: the stated posture was not fully carried through; see `11-independent-audit.md` A7–A13.)*
+
+> **[Audit 2026-11-07] Read this first.** An independent audit found errors in this dossier's lexical evidence, its coding of patristic sources, and its weighing of Greek-East evidence. The broad picture survives, but the confidence and some verdicts do not. **Working conclusions are now in `12-revised-method-and-assessment.md`; the error list is in `11-independent-audit.md`.** The original files are kept, with `[Audit 2026-11-07]` notes at each correction; unmodified copies are in `archive/deepseek-original-2026-11-01/`.
+>
+> **Revised summary.** (1) *Text:* Paul's rule is that the head (hair) be covered; the face is never mentioned, so the text neither requires nor forbids covering it (high). (2) *History:* at Corinth, a head-drape with the face visible is more likely than not, but face-veiling was a respectable practice in parts of the Greek world, including Paul's home city, Tarsus. Confidence is **probable, not high**: one rule, more than one way of keeping it. (3) *Reception:* the first explicit Christian evidence for covering the face is Clement of Alexandria (c. 195); the earliest evidence is split by region (face visible in Rome and Carthage, covered in Alexandria and later Syria). Whether the practice is older than c. 195 cannot be determined.
 
 ---
 
 ## Verdict in one paragraph
 
-Paul commands a covering **on the head** and never mentions the face; the strongest single argument is that he uses the face-veil word (`κάλυμμα`) explicitly in 2 Corinthians 3 but not here. The Greek word he does use (`κατακαλύπτω`) is generic, so it does not *exclude* the face — it simply does not require it. Surrounding Greco-Roman practice normally left the face visible; face-covering was a marked, regional, or situational gesture. From about 190–200 CE some Christian writers (Clement of Alexandria first, then the Didascalia, Tertullian in a limited way, later Jerome and Ambrose) extended the practice to the face, and the reading was reinforced by a secondary textual variant at 11:10 (`κάλυμμα` for `ἐξουσία`). Face covering is therefore **not required, not forbidden, historically Christian, and not the default.**
+Paul commands a covering **on the head** and never mentions the face; the strongest single argument is that he uses the face-veil word (`κάλυμμα`) explicitly in 2 Corinthians 3 but not here *(audit: false premise; BDAG glosses `κάλυμμα` first as "head-covering", see `11-independent-audit.md` A1)*. *(Audit: false premise; BDAG glosses `κάλυμμα` first as "head-covering". See A1.)* The Greek word he does use (`κατακαλύπτω`) is generic, so it does not *exclude* the face — it simply does not require it. Surrounding Greco-Roman practice normally left the face visible; face-covering was a marked, regional, or situational gesture. From about 190–200 CE some Christian writers (Clement of Alexandria first, then the Didascalia, Tertullian in a limited way, later Jerome and Ambrose) extended the practice to the face, and the reading was reinforced by a secondary textual variant at 11:10 (`κάλυμμα` for `ἐξουσία`). Face covering is therefore **not required, not forbidden, historically Christian, and not the default.**
 
 ---
 
@@ -29,6 +33,13 @@ Paul commands a covering **on the head** and never mentions the face; the strong
 | `07-claim-verdicts.md` | Ten discrete claims tested, with verdicts, confidence levels and reasoning |
 | `08-subagent-method.md` | Why subagents were used, the exact briefs they received, how their output was verified, and where they disagreed |
 | `subagents/` | The four full subagent reports, verbatim: `A-greco-roman.md`, `B-patristic.md`, `C-lexical-commentary.md`, `D-modern-debate.md` |
+| `11-independent-audit.md` | **Audit (2026-11-07):** 14 problems found, each with evidence and status; what was confirmed; what remains unverified |
+| `12-revised-method-and-assessment.md` | **Revised method and working conclusions:** three separated questions, competing hypotheses with predictions, an 18-item evidence matrix, revised verdicts |
+| `data/lxx-katakalypto-concordance.csv` | Every LXX occurrence of `κατακαλύπτω` with its object (audit) |
+| `data/evidence-matrix.csv` | The evidence matrix in machine-readable form (audit) |
+| `scripts/kwic.py`, `scripts/extract_pdfs_audit.py` | Audit tools: whitespace-normalised keyword-in-context search; PDF re-extraction |
+| `archive/deepseek-original-2026-11-01/` | Unmodified copies of the first-pass files |
+| `collections/` | **Every web source fetched during the audit** (raw HTML/XML plus readable `.txt` with the key passage at the top), and BDAG excerpts. See `collections/INDEX.md` |
 | `09-bibliography-and-corpus-manifest.md` | Bibliography of everything used, mapped to corpus filenames; corpus composition and gaps |
 | `10-open-questions.md` | What remains unknown, what would overturn the verdicts, suggested next steps |
 | `source-report.md` | The finished report as delivered to the user |

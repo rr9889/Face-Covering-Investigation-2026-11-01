@@ -1,5 +1,7 @@
 # 10 — Open questions
 
+> **[Audit 2026-11-07]** A revised, prioritised list of next steps, including the Josephus *Ant.* 7.254 check and a full concordance of `κατακαλύπτω`, is in `12-revised-method-and-assessment.md` §7–8.
+
 This file records what the investigation could **not** settle, where the verdicts are weakest, and what evidence would change them. It is deliberately written as a challenge to the report rather than a defence of it.
 
 ---

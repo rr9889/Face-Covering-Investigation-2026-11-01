@@ -131,11 +131,15 @@ Both can be true at once: the prefix intensifies the covering and describes its 
 
 He uses all three when he means the face. In 1 Cor 11 he uses none of them. This is the strongest single argument for the head-only reading, and it is why the argument from silence in this case carries weight.
 
+> **[Audit 2026-11-07]** The premise is wrong: BDAG glosses `κάλυμμα` first as **"head-covering, veil"**, not as a face-veil word, and in 2 Cor 3:15 it lies "on the heart". Paul's 2 Cor 3 wording follows LXX Exod 34. What survives is narrower: when Paul means the face he *names* `πρόσωπον`; in 1 Cor 11 he names `κεφαλή`. That fixes the rule's criterion (the head), not how far the garment hung. See `11-independent-audit.md` A1.
+
 ### 5.2 LXX Genesis 38:15 — "she had covered her face"
 
 Tamar: `ἐκάλυψεν γὰρ τὸ πρόσωπον αὐτῆς` — "for she had covered her face." BDAG cites Gen 38:15 at 1 Cor 11:7 as the parallel for the accusative of specification.
 
 **Significance:** when the Greek wants to say "covered her face," it says `πρόσωπον`. The verb family does not do it by itself.
+
+> **[Audit 2026-11-07] Misquoted.** The LXX reads `κατεκαλύψατο γὰρ τὸ πρόσωπον αὐτῆς`: Paul's own verb `κατακαλύπτω`, in the **middle** voice (the voice BDAG suggests for 1 Cor 11:6), with "face" as object. It is the closest lexical parallel to Paul's usage. The point that the object must be stated still holds (the verb itself is generic), but this verse shows the verb used of a woman covering her face. See `11-independent-audit.md` A2.
 
 ### 5.3 LXX Exodus 34:33–35 — Moses' `κάλυμμα`
 
@@ -144,6 +148,8 @@ The LXX uses `κάλυμμα` for the veil "upon his face" (`ἐπὶ τὸ πρ
 ### 5.4 LXX Isaiah 6:2 — the seraphim
 
 `κατακαλύπτω` is used of the seraphim covering their faces (and feet). This is the one place where the verb itself takes "face" as its object — and it is the passage behind the "because of the angels" suggestion (see §6).
+
+> **[Audit 2026-11-07] False.** A full LXX check (`data/lxx-katakalypto-concordance.csv`, 23 occurrences) finds "face" as the object in Gen 38:15, Isa 6:2 and Jer 28:51 (MT 51:51). Among human or angelic body parts the verb's LXX objects are face ×3 and feet ×1, and **head ×0**. See `11-independent-audit.md` A3.
 
 ### 5.5 *Shepherd of Hermas*, Vision 4.2.1
 

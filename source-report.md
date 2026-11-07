@@ -1,5 +1,7 @@
 # Does the head covering include the face?
 
+> **[Audit 2026-11-07]** This is the first-pass report. Several of its arguments were found to rest on errors (notably §1.3's premise about `κάλυμμα`, the misquoted Gen 38:15, and the "head only" coding of Chrysostom and Theodoret). Read `11-independent-audit.md` and `12-revised-method-and-assessment.md` alongside it.
+
 **An evidence review of 1 Corinthians 11:2–16, the Greco-Roman background, and early Christian practice**
 
 Prepared from the corpus in `C:\Users\Admin\Documents\Early Christianity\Head Coverings` (≈200 text sources, 112 PDFs, primary and secondary), with external checks of primary texts. I began with no position; the verdicts below are where the evidence actually landed.
@@ -44,6 +46,8 @@ Paul's reasoning runs on hair and head: uncovered = shaved (vv. 5–6); long hai
 Paul uses the face-veil word elsewhere. In 2 Cor 3:13–16 he twice uses `κάλυμμα` for the veil **on Moses' face**, and in 3:18 he speaks of "unveiled **faces**" (`ἀνακεκαλυμμένῳ προσώπῳ`). He had the vocabulary and used it when he meant it. In 1 Cor 11 he does not.
 
 That is the single most weighty datum in the whole debate. It is an argument from silence, but a *loaded* silence: the same author, in the same letter collection, with the same conceptual world, describes a face-veil explicitly — and does not do so here.
+
+> **[Audit 2026-11-07]** BDAG glosses `κάλυμμα` first as **"head-covering, veil"**; it is not a face-veil word (in 2 Cor 3:15 it lies "on the heart"), and 1 and 2 Corinthians are separate letters. The valid residue: Paul names `πρόσωπον` when he means the face and names `κεφαλή` here. That fixes the rule's criterion (the head), not the garment's extent. See audit A1.
 
 **Verdict 1: Paul commands a covering on the head and says nothing about the face. Confidence: very high.**
 
